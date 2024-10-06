@@ -34,6 +34,7 @@ Predicting total delay allows us to estimate the likelihood of project delivery,
 library(dplyr)
 library(ggplot2)
 library(tidyr)
+library(plotly)
 ```
 
 # Prediction Outputs from  LM1
@@ -86,7 +87,7 @@ p1_lm1 <- ggplot(results_model1, aes(x = ProjectRegion, y = predicted_delay, fil
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))  # Rotate x-axis text for better readability
 # ggsave("out/plots/13_lm1_predicted_delay.png", plot = p1_lm1, width = 16, height = 12)
-p1_lm1
+ggplotly(p1_lm1)
 ```
 
 # LM1 1: Plot 2 -  Pedicted Likelihood Faceted by Region and Sector
@@ -102,7 +103,7 @@ p2_lm1 <- ggplot(results_model1, aes(x = ProjectRegion, y = likelihood, fill = C
        y = "Likelihood (%)") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
-p2_lm1
+ggplotly(p2_lm1)
 ```
 
 
@@ -123,7 +124,7 @@ p1_violin_lm2 <- ggplot(results_model2, aes(x = ProjectRegion, y = predicted_del
        y = "Predicted Delay") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
-p1_violin_lm2
+ggplotly(p1_violin_lm2)
 ```
 
 
@@ -139,7 +140,7 @@ p2_violin_lm2 <- ggplot(results_model2, aes(x = ProjectRegion, y = likelihood, f
        y = "Likelihood (%)") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
-p2_violin_lm2
+ggplotly(p2_violin_lm2)
 ```
 # Final Model LM2 Diagnostics
 

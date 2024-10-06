@@ -1,0 +1,411 @@
+"0","source(""source/3_linear_model.R"")"
+"1","[38;5;246m# A tibble: 3,458 × 27[39m
+"
+"1","   PrimaryKey ProjectName        ProjectStatus  FundingStatus    ProcurementType ProjectRegion ProjectCityTown  CommissionAssigned…
+"
+"1","   [3m[38;5;246m<chr>[39m[23m      [3m[38;5;246m<chr>[39m[23m              [3m[38;5;246m<chr>[39m[23m          [3m[38;5;246m<chr>[39m[23m            [3m[38;5;246m<chr>[39m[23m           [3m[38;5;246m<chr>[39m[23m         [3m[38;5;246m<chr>[39m[23m            [3m[38;5;246m<chr>[39m[23m              
+"
+"1","[38;5;250m 1[39m IP009601   Watermain renewal… In planning    Funding source … Open            Canterbury    Ashburton        Water              
+"
+"1","[38;5;250m 2[39m IP009602   Montalto treatmen… Early planning Funding source … To be determin… Canterbury    Ashburton        Water              
+"
+"1","[38;5;250m 3[39m IP009605   Ashburton WWTP Fe… Early planning Funding source … To be determin… Canterbury    Ashburton        Water              
+"
+"1","[38;5;250m 4[39m IP009607   Sewermain renewal… Early planning Funding source … Open            Canterbury    Ashburton        Water              
+"
+"1","[38;5;250m 5[39m IP009872   Second Bridge Wat… Early planning Funding source … To be determin… Canterbury    Ashburton        Transport          
+"
+"1","[38;5;250m 6[39m IP009873   Methven WWTP Rece… Early planning Funding source … To be determin… Canterbury    Methven          Water              
+"
+"1","[38;5;250m 7[39m IP009874   Rakaia WWTP UV Re… Early planning Funding source … To be determin… Canterbury    Rakaia           Water              
+"
+"1","[38;5;250m 8[39m IP009875   Grit Chamber to R… In procurement Fully funded     Open            Canterbury    Ashburton        Water              
+"
+"1","[38;5;250m 9[39m IP011379   Filtration and UV… Under constru… Fully funded     Open            Canterbury    Dromore, Mayfie… Water              
+"
+"1","[38;5;250m10[39m IP011380   Filtration and UV… In procurement Fully funded     Open            Canterbury    Rakaia, Tinwald… Water              
+"
+"1","[38;5;246m# … with 3,448 more rows, and 19 more variables: EstimatedProjectValueRange <chr>, EstimatedQuarterBusinessCaseStart <date>,[39m
+"
+"1","[38;5;246m#   EstimatedQuarterBusinessCaseCompletion <date>, EstimatedQuarterConstructionStart <date>,[39m
+"
+"1","[38;5;246m#   EstimatedQuarterConstructionCompletion <date>, EstimatedQuarterProjectRangeStart <date>,[39m
+"
+"1","[38;5;246m#   EstimatedQuarterProjectRangeCompletion <date>, planned_duration <drtn>, funding_status_indicator <dbl>,[39m
+"
+"1","[38;5;246m#   ProjectRegionCode <dbl>, GDP_Start <dbl>, CPI_Start <dbl>, GDP_End <dbl>, CPI_End <dbl>, GDP_Delta_Percent <dbl>,[39m
+"
+"1","[38;5;246m#   CPI_Delta_Percent <dbl>, avg_group_delay <dbl>, predicted_delay <dbl>, likelihood <dbl>[39m
+"
+"2","Warning:"
+"2"," Removed 5 rows containing non-finite values (stat_boxplot).
+"
+"2","Warning:"
+"2"," Removed 5 rows containing non-finite values (stat_boxplot).
+"
+"2","Warning:"
+"2"," Removed 5 rows containing non-finite values (stat_ydensity).
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Removed 5 rows containing non-finite values (stat_ydensity).
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Removed 5 rows containing non-finite values (stat_boxplot).
+"
+"2","Warning:"
+"2"," Removed 5 rows containing non-finite values (stat_boxplot).
+"
+"2","Warning:"
+"2"," Removed 5 rows containing non-finite values (stat_ydensity).
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Removed 5 rows containing non-finite values (stat_ydensity).
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"
+"2","Warning:"
+"2"," Groups with fewer than two data points have been dropped.
+"

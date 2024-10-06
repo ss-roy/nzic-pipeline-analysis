@@ -7,6 +7,5 @@
 "0","       y = ""Predicted Delay"") +"
 "0","  theme_minimal() +"
 "0","  theme(axis.text.x = element_text(angle = 90, hjust = 1))  # Rotate x-axis text for better readability"
-"2","Error in ggplot(results_model1, aes(x = ProjectRegion, y = predicted_delay,  : 
-  object 'results_model1' not found
-"
+"0","# ggsave(""out/plots/13_lm1_predicted_delay.png"", plot = p1_lm1, width = 16, height = 12)"
+"0","ggplotly(p1_lm1)"
