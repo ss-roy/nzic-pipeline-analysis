@@ -1,0 +1,1 @@
+{"frames":[{"func":"ggplot(results_model1, aes(x = ProjectRegion, y = predicted_delay, \n    fill = CommissionAssignedInfrastructureSector))","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error in ggplot(results_model1, aes(x = ProjectRegion, y = predicted_delay,  : \n  object 'results_model1' not found\n"}

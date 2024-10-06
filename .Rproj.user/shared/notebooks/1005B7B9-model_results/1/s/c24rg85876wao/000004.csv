@@ -1,0 +1,12 @@
+"0","# Plot 1: Predicted Delay Faceted by Region and Sector"
+"0","p1_lm1 <- ggplot(results_model1, aes(x = ProjectRegion, y = predicted_delay, fill = CommissionAssignedInfrastructureSector)) +"
+"0","  geom_boxplot(outlier.colour = ""red"", outlier.shape = 16, outlier.size = 2) +  # Boxplot to show distribution of predicted delay"
+"0","  facet_wrap(~ CommissionAssignedInfrastructureSector, scales = ""free_y"") +  # Create facets by sector"
+"0","  labs(title = ""Predicted Delay by Project Region and Sector"","
+"0","       x = ""Project Region"","
+"0","       y = ""Predicted Delay"") +"
+"0","  theme_minimal() +"
+"0","  theme(axis.text.x = element_text(angle = 90, hjust = 1))  # Rotate x-axis text for better readability"
+"2","Error in ggplot(results_model1, aes(x = ProjectRegion, y = predicted_delay,  : 
+  object 'results_model1' not found
+"

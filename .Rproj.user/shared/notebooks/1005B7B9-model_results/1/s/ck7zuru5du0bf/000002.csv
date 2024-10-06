@@ -1,0 +1,7 @@
+"0",""
+"0",""
+"0","results_lm2 <- read.csv(""out/results_model_2.csv"")"
+"0",""
+"0","results_lm2 %>%"
+"0","  select(ProjectName, ProjectRegion, EstimatedQuarterProjectRangeCompletion,predicted_delay, likelihood,ProjectStatus) %>%"
+"0","  sample_n(4)"

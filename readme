@@ -1,0 +1,60 @@
+# Information on this repository is provided here
+
+About the folder:
+source: Contains all the R code
+out/plot: Contains all the plot based outputs.
+out/model: Contains all the model outputs.
+data/piipeline: Contains data provided for the analysis
+data/external: Contains data sourced externally for the analysis
+
+About the files:
+
+Code related to the modelling,
+1. 0_functions.R :- Contains code to load required libraries and custom functions.
+2. 1_read_inputs.R :- Contains code to fetch the data and does some basic pre-processing
+3. 2_preprocess_features.R :- Contains code for pre-processing and feature engineering 
+4. 3_linear_model :- Contains code for Linear Model 1
+5. 4_linear_model_macro :- Contains code for Linear Model 2. (LM1 Features + Macro)
+6. 5_autorrun.R :- Contains code to run the LM2 by specifying parameter. Refer (3) in 'How to run?' 
+7. 6_basics_plots.R :-  Contains code used to generate basic exploratory graphs
+
+Outputs can be viewed here,
+7. model_results.html :- Markdown file that has modeling summary.
+8. basic_plots.html :- Markdown file that has basic exploratory graphs
+
+Single point of execution,
+9. main_R:- Contains code to Run all R scripts related to the RFA
+
+Others,
+10. Rapid Feasibility Assessment.pdf :- A short report on the RFA
+11. NZIC_Presso.ppt :- Slide deck in ppt for presenting on the day.
+11. NZIC_Presso.pdf :- Slide deck in pdf for presenting on the day.
+
+How to run?
+
+You can run each of those files individually by,
+
+1. Open the file and click ‘Source’
+
+(Or)
+
+2. source(“source/ filename.R”)
+
+3. You can also run linear model 2 for a sector of your choice by typing the following command on your console
+
+system("Rscript source/5_autorrun.R 'Transport' ")
+
+
+Packages needed to run the code: 
+readxl, dplyr, ggplot2, lubridate, stringr, tidyr
+
+Code to install the package: (Copy/Paste and Run)
+if (!require(“readxl”)) install.packages("readxl")
+if (!require(“tidyr”)) install.packages("tidyr")
+if (!require("dplyr")) install.packages("dplyr")
+if (!require("ggplot2")) install.packages("ggplot2")
+if (!require("lubridate")) install.packages("lubridate")
+if (!require("stringr")) install.packages("stringr")
+
+
+Kindly contact sujithroy.apps@gmail.com for any clarifications.

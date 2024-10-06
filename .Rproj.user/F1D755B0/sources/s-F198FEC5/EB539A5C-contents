@@ -1,0 +1,8 @@
+
+# Script Info -------------------------------------------------------------
+
+# Single point of execution file to run all R scripts related to the RFA
+
+source("source/6_basics_plots.R")
+source("source/3_linear_model.R")
+source("source/4_linear_model_macro.R")

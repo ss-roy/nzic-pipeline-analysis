@@ -1,0 +1,5 @@
+"0","results_lm1 <- read.csv(""out/results_model_1.csv"")"
+"0",""
+"0","results_lm1 %>%"
+"0","  select(PrimaryKey, ProjectName, ProjectRegion, predicted_delay, likelihood) %>%"
+"0","  sample_n(4)"

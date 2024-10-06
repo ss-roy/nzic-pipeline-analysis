@@ -1,0 +1,212 @@
+---
+title: "Basic Exploratory Analysis - Pipeline Data"
+author: "Sujith Roy"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Introduction
+
+This document presents an analysis of infrastructure projects, focusing on completed and planned projects. The analysis includes summary statistics and visualizations.
+
+# Table of Contents
+
+- [Total Completed Projects by Project Region](#total-completed-projects-by-project-region)
+- [Total Planned Projects by Project Region](#total-planned-projects-by-project-region)
+- [Total Completed Projects by Infrastructure Sector](#total-completed-projects-by-infrastructure-sector)
+- [Total Planned Projects by Infrastructure Sector](#total-planned-projects-by-infrastructure-sector)
+- [Average Delay by Project Region for Completed Projects](#average-delay-by-project-region-for-completed-projects)
+- [Average Delay by Project Region for Planned Projects](#average-delay-by-project-region-for-planned-projects)
+- [Average Planned Duration by Project Region](#average-planned-duration-by-project-region)
+- [Completed Projects by Sector and Location](#completed-projects-by-sector-and-location)
+- [Planned Projects by Sector and Location](#planned-projects-by-sector-and-location)
+- [Heatmap of Completed Projects](#heatmap-of-completed-projects-by-sector-and-location)
+- [Heatmap of Planned Projects](#heatmap-of-planned-projects-by-sector-and-location)
+
+
+# Exploratory Graphs
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+```
+
+```{r include=FALSE, paged.print=FALSE}
+# Load the dataset
+viz_data <- read.csv("out/processed_with_features.csv")
+head(viz_data)
+
+# Convert estimated quarters to dates
+viz_data <- viz_data %>%
+  mutate(
+    EstimatedQuarterBusinessCaseStart = as.Date(EstimatedQuarterBusinessCaseStart),
+    EstimatedQuarterBusinessCaseCompletion = as.Date(EstimatedQuarterBusinessCaseCompletion),
+    EstimatedQuarterProjectRangeStart = as.Date(EstimatedQuarterProjectRangeStart),
+    EstimatedQuarterProjectRangeCompletion = as.Date(EstimatedQuarterProjectRangeCompletion),
+    EstimatedQuarterConstructionStart = as.Date(EstimatedQuarterConstructionStart),
+    EstimatedQuarterConstructionCompletion = as.Date(EstimatedQuarterConstructionCompletion)
+  )
+
+# Separate completed and planned projects
+completed_projects <- viz_data %>% filter(complete == 1 & EstimatedQuarterConstructionCompletion <= "2024-10-01")  
+planned_projects <- viz_data %>% filter(complete == 0)
+
+```
+```{r include=FALSE}
+# Summary Statistics by ProjectRegion for completed projects
+# Summary Statistics by ProjectRegion for completed projects
+region_summary_completed <- completed_projects %>%
+  group_by(ProjectRegion) %>%
+  summarise(
+    total_projects = n(),
+    average_delay = mean(total_delay, na.rm = TRUE),
+    average_duration = mean(planned_duration, na.rm = TRUE),
+    average_budget_min = mean(budget_min, na.rm = TRUE),
+    average_budget_max = mean(budget_max, na.rm = TRUE)
+  )
+# print(region_summary_completed)
+# Summary Statistics by ProjectRegion for planned projects
+region_summary_planned <- planned_projects %>%
+  group_by(ProjectRegion) %>%
+  summarise(
+    total_projects = n(),
+    average_delay = mean(total_delay, na.rm = TRUE),
+    average_duration = mean(planned_duration, na.rm = TRUE),
+    average_budget_min = mean(budget_min, na.rm = TRUE),
+    average_budget_max = mean(budget_max, na.rm = TRUE)
+  )
+# print(region_summary_planned)
+
+```
+# Total Completed Projects by Project Region
+```{r echo=FALSE}
+ggplot(data = region_summary_completed, aes(x = reorder(ProjectRegion, total_projects), y = total_projects)) +
+  geom_bar(stat = "identity", fill = "steelblue") +
+  coord_flip() +
+  labs(title = "Total Completed Projects by Project Region",
+       x = "Project Region",
+       y = "Total Completed Projects")
+
+```
+
+# Total Planned Projects by Project Region
+```{r echo=FALSE}
+ggplot(data = region_summary_planned, aes(x = reorder(ProjectRegion, total_projects), y = total_projects)) +
+  geom_bar(stat = "identity", fill = "orange") +
+  coord_flip() +
+  labs(title = "Total Planned Projects by Project Region",
+       x = "Project Region",
+       y = "Total Planned Projects")
+
+```
+```{r echo=FALSE}
+sector_summary_completed <- completed_projects %>%
+  group_by(CommissionAssignedInfrastructureSector) %>%
+  summarise(
+    total_projects = n(),
+    average_delay = mean(total_delay, na.rm = TRUE),
+    average_duration = mean(planned_duration, na.rm = TRUE),
+    average_budget_min = mean(budget_min, na.rm = TRUE),
+    average_budget_max = mean(budget_max, na.rm = TRUE)
+  )
+
+```
+
+# Total Projects by Infrastructure Sector
+
+```{r echo=FALSE}
+ggplot(data = sector_summary_completed, aes(x = reorder(CommissionAssignedInfrastructureSector, total_projects), y = total_projects)) +
+  geom_bar(stat = "identity", fill = "lightgreen") +
+  coord_flip() +
+  labs(title = "Total Completed Projects by Infrastructure Sector",
+       x = "Infrastructure Sector",
+       y = "Total Completed Projects")
+
+```
+```{r echo=FALSE}
+sector_summary_planned <- planned_projects %>%
+  group_by(CommissionAssignedInfrastructureSector) %>%
+  summarise(
+    total_projects = n(),
+    average_delay = mean(total_delay, na.rm = TRUE),
+    average_duration = mean(planned_duration, na.rm = TRUE),
+    average_budget_min = mean(budget_min, na.rm = TRUE),
+    average_budget_max = mean(budget_max, na.rm = TRUE)
+  )
+```
+
+```{r echo=FALSE}
+ggplot(data = sector_summary_planned, aes(x = reorder(CommissionAssignedInfrastructureSector, total_projects), y = total_projects)) +
+  geom_bar(stat = "identity", fill = "purple") +
+  coord_flip() +
+  labs(title = "Total Planned Projects by Infrastructure Sector",
+       x = "Infrastructure Sector",
+       y = "Total Planned Projects")
+
+```
+
+# Average Delay by Project Region
+
+```{r echo=FALSE}
+ggplot(data = region_summary_completed, aes(x = reorder(ProjectRegion, average_delay), y = average_delay)) +
+  geom_bar(stat = "identity", fill = "lightblue") +
+  coord_flip() +
+  labs(title = "Average Delay by Project Region (in Days)",
+       x = "Project Region",
+       y = "Average Delay (Days)")
+
+```
+```{r include=FALSE}
+ggplot(data = region_summary_planned, aes(x = reorder(ProjectRegion, average_delay), y = average_delay)) +
+  geom_bar(stat = "identity", fill = "lightcoral") +
+  coord_flip() +
+  labs(title = "Average Delay by Project Region (in Days)",
+       x = "Project Region",
+       y = "Average Delay (Days)")
+
+```
+```{r echo=FALSE}
+sector_location_summary_completed <- completed_projects %>%
+  group_by(ProjectRegion, CommissionAssignedInfrastructureSector) %>%
+  summarise(total_projects = n(), .groups = 'drop')
+
+# 7.1 Count the number of planned projects by ProjectRegion and CommissionAssignedInfrastructureSector
+sector_location_summary_planned <- planned_projects %>%
+  group_by(ProjectRegion, CommissionAssignedInfrastructureSector) %>%
+  summarise(total_projects = n(), .groups = 'drop')
+```
+
+# Heatmap of Completed Projects by Sector and Location
+
+```{r echo=FALSE}
+ggplot(data = sector_location_summary_completed, aes(x = ProjectRegion, y = CommissionAssignedInfrastructureSector, fill = total_projects)) +
+  geom_tile(color = "white") +
+  scale_fill_gradient(low = "lightblue", high = "darkblue") +
+  labs(title = "Heatmap of Completed Projects by Sector and Location",
+       x = "Project Region",
+       y = "Infrastructure Sector",
+       fill = "Total Completed Projects") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+```
+# Heatmap of Planned Projects by Sector and Location
+
+
+```{r echo=FALSE}
+ggplot(data = sector_location_summary_planned, aes(x = ProjectRegion, y = CommissionAssignedInfrastructureSector, fill = total_projects)) +
+  geom_tile(color = "white") +
+  scale_fill_gradient(low = "lightblue", high = "darkblue") +
+  labs(title = "Heatmap of Planned Projects by Sector and Location",
+       x = "Project Region",
+       y = "Infrastructure Sector",
+       fill = "Total Planned Projects") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
