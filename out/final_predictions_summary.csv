@@ -1,0 +1,987 @@
+"PrimaryKey","ProjectName","ProjectRegion","EstimatedQuarterProjectRangeCompletion","predicted_delay","likelihood"
+"IP009872","Second Bridge Watermains","Canterbury","2029-04-01",-18.6315536180291,70.2571133336168
+"IP006334","Airfield Resilience Work Package 2","Auckland","2024-07-01",-105.043990704704,47.8358971599343
+"IP006337","Domestic Processor","Auckland","2028-10-01",-629.16419813029,37.3270809876929
+"IP006709","Core Roading Network: Eastern Ring Route & South-eastern Access early works","Auckland","2024-07-01",-198.463376341708,45.9628017580128
+"IP006710","Baggage Enabling","Auckland","2024-10-01",-268.144633052535,44.5656651716911
+"IP006711","Terminal Integration Enabling: Forecourt Roading and Utilities","Auckland","2026-01-01",-273.836114165187,44.4515487382598
+"IP006712","Terminal Integration Enabling: West Enabling","Auckland","2027-07-01",-265.884664937393,44.6109784207142
+"IP006713","Terminal Integration Enabling: East Enabling","Auckland","2026-07-01",-187.125080692924,46.1901390424592
+"IP008635","Remote Stands Stage 2","Auckland","2025-07-01",668.025299551306,63.3362402961204
+"IP008889","Terminal Integration Enabling: Check-in Expansion","Auckland","2027-10-01",-156.322191043842,46.807749087464
+"IP011258","Contingent Runway (Staged Implementation)","Auckland","2028-01-01",-180.281509761224,46.3273553296086
+"IP011259","Airfield Resilience Work Package 3","Auckland","2027-01-01",-133.337256059109,47.2686060684835
+"AKL_17157","City Centre, High Street","Auckland","2028-04-01",-169.996489296083,46.5335740326172
+"AKL_26301","Becroft Drive Culvert Renewal [2627, 2700, 2727]","Auckland","2025-04-01",-512.497532700362,39.6662934871567
+"AKL_26632","Albany Logistics Centre - R&A Fitout & Construction","Auckland","2027-01-01",-389.492683652296,42.132589059483
+"AKL_27389","City Centre, Victoria Quarter Improvements","Auckland","2024-10-01",-93.1413025634894,48.0745507356969
+"AKL_27718","Carr_Clinker Roads Flood Mitigation [2759]","Auckland","2027-04-01",-191.917787761698,46.0940433818844
+"AKL_28106","MC - Replace UPS - 60kVa","Auckland","2027-04-01",-118.327076697124,47.5695660646689
+"AKL_28236","Birkenhead Ave, Higbury, Asset renewal and OLF control","Auckland","2028-04-01",-281.577336983148,44.2963341779552
+"AKL_28238","Alfriston Rd to Halver Rd, Manurewa pipe renewal","Auckland","2025-04-01",-266.368601531841,44.601275301777
+"AKL_28245","Bright Street 61, Eden Terrace, Pipe Renewal","Auckland","2025-10-01",-130.208914439447,47.3313305475996
+"AKL_28255","Campbell Road, Takapuna Network Extension and Improvements","Auckland","2028-04-01",-249.059786439707,44.9483238478653
+"AKL_28259","Avondale/Whau catchment Upgrades","Auckland","2028-04-01",-281.577336983148,44.2963341779552
+"AKL_29126","Beach Rd Northcote Point Pipe Renewal [2699]","Auckland","2025-07-01",-49.8078867388922,48.9434027558333
+"AKL_30354","Anne St, Clarence St, Garden Tce, Kapai Rd Flood Mitigation","Auckland","2028-01-01",-251.777180348945,44.8938390318724
+"AKL_30416","Castor Bay SW Pipe Renewals and Improvements","Auckland","2027-01-01",-501.585197220484,39.8850901027864
+"AKL_30429","Culvert Rehabilitation Rotomahana Terrace Remuera","Auckland","2028-04-01",-276.645459666702,44.3952202566988
+"AKL_30669","Kaipātiki - renew car parks, paths and structures 2023 - 2025","Auckland","2024-04-01",-211.689834032114,45.6976060824614
+"AKL_30924","AH - Replace High Level Lights (Lobby & Canopy)","Auckland","2026-04-01",-200.146340735264,45.9290576604075
+"AKL_31227","Beach Rd 472, Murrays Bay SW Pipe renewal","Auckland","2025-04-01",-161.134665680126,46.7112570793907
+"AKL_31296","6 Freeland Ave, Mt Roskill, Pipe Renewal","Auckland","2025-01-01",-43.3475778385481,49.0729344886071
+"AKL_33280","32 Kaitawa Street, Otara, Pipe Renewal","Auckland","2025-07-01",-276.827126397637,44.3915777673367
+"AKL_33281","25 Railway Street West, Papakura, Pipe Renewals","Auckland","2025-04-01",-166.066542996572,46.6123710006471
+"AKL_33282","16 Constable Road, Waiuku, Pipe Renewals","Auckland","2026-07-01",-127.705735915997,47.3815202609069
+"AKL_33284","155 Edinburgh Street, Pukekohe, Pipe Renewals","Auckland","2025-04-01",-30.3849533643193,49.3328402044706
+"AKL_35960","8 Howe Street, Freemans Bay, Pipe Renewal","Auckland","2025-01-01",-10.9884040639731,49.721748642049
+"AKL_35961","City Road 3, Auckland Central, Pipe Renewal","Auckland","2025-01-01",-95.5654906410675,48.0259448118778
+"AKL_36197","89 Nuffield Street, Newmarket, Pipe Renewal","Auckland","2025-07-01",-82.1670605134672,48.2945886023914
+"AKL_36198","68 St Michaels Avenue, Pt Chevalier, Pipe Renewal","Auckland","2025-10-01",-130.208914439447,47.3313305475996
+"AKL_36199","2 Vernon Street, Papakura, Pipe Renewal","Auckland","2025-07-01",-232.08152955373,45.2887445719893
+"AKL_36373","24 Pleasant St, and 113 Queenstown Rd, Onehunga Pipe Renewal","Auckland","2026-01-01",-89.0761177505587,48.1560592890784
+"AKL_36378","Atkin Avenue 31, Mission Bay, Pipe renewal","Auckland","2028-04-01",-227.987905438221,45.370823344566
+"AKL_36824","1/53 Newington Road, Henderson Pipe Renewal","Auckland","2025-07-01",-54.7397640553381,48.8445166770897
+"AKL_37250","AH - EV Chargers Basement B3","Auckland","2025-04-01",-122.310495442099,47.4896969530893
+"AKL_37395","Attwood reserve  - investigate, design and repair wharf and boat ramp","Auckland","2025-01-01",-215.023398458118,45.6307668054122
+"AKL_37398","Wairangi wharf - Investigation, design and repair of wharf stairs","Auckland","2024-04-01",-89.4877346588847,48.1478062082743
+"AKL_37440","3 Miami Avenue, Waiheke Island - Pipe Renewal","Auckland","2024-10-01",-175.901943883082,46.4151673469199
+"AKL_37678","3-15 Orion Place, Hillcrest - Pipe Renewal","Auckland","2026-04-01",-140.57997243206,47.1233867583469
+"AKL_40069","Alexis Avenue 38, Mount Albert, Pipe Renewal","Auckland","2025-01-01",-90.6336133246215,48.1248308906213
+"AKL_42559","138 Favona Road, Favona, Pipe Renewal","Auckland","2025-07-01",-73.3451938773145,48.471470496014
+"AKL_42601","62 Hugo Johnston Drive, Penrose, Pipe Renewal","Auckland","2025-04-01",-30.3849533643193,49.3328402044706
+"AKL_43176","54 Alverston Street, Waterview, Pipe renewal","Auckland","2025-04-01",-86.3438453820756,48.2108424240274
+"AKL_43180","Aranui Road 106, Mount Wellington, Pipe Renewal","Auckland","2024-10-01",-21.9877735765844,49.5012069598529
+"AKL_43183","Church Street 32, Otahuhu, Pipe renewal","Auckland","2025-07-01",-87.0989378299132,48.1957025236478
+"AKL_43517","901 New North Road, Mt Albert, Pipe renewal","Auckland","2025-07-01",-49.8078867388922,48.9434027558333
+"AKL_48898","AH - Albert Street Bike Storage","Auckland","2027-04-01",-196.561877400106,46.0009275592048
+"AKL_48899","AH - Federal Street Landscaping","Auckland","2027-04-01",-196.561877400106,46.0009275592048
+"AKL_48901","AH - Wellesley Street Stairs","Auckland","2027-04-01",-201.493754716552,45.9020414804613
+"AKL_48902","HC - AEM BCP Henderson","Auckland","2026-04-01",-117.300655598955,47.5901462111375
+"AKL_IP010018","Pamir Road Network [1932]","Auckland","2024-04-01",-202.21333599842,45.8876135929175
+"IP011924","Flood/Storm Recovery","Auckland","2029-04-01",334.968771667517,56.6583259991551
+"IP011926","Vincent Street – NW Bus Improvements","Auckland","2024-10-01",-186.629029126142,46.2000850713537
+"IP005437","Creative Quarter Princess Street","Otago","2028-07-01",-1140.1683892922,83.8268193829989
+"IP005438","Cultural and Entertainment Quarter Octagon","Otago","2030-07-01",-1091.67261335041,89.0522584418496
+"IP010613","Rakaia Double Hill","Canterbury","2028-01-01",157.344883505247,73.2745906097762
+"IP010616","Selwyn / Waikirikiri - Berm vegetation enhancement","Canterbury","2035-01-01",-419.412583549256,63.3848998128598
+"IP010630","Region wide work programme for works outside of the dedicated 58 schemes","Canterbury","2035-01-01",-747.428204005123,57.7603986175235
+"IP010644","Rakaia Double Hill:
+Extend Rock Groynes","Canterbury","2032-01-01",146.635547942948,73.0909570663867
+"IP010928","Pukenui Coastal Walkway","Northland","2025-07-01",-95.3175636489713,85.429154843817
+"IP010931","TIF New Car Parking, Russell","Northland","2024-10-01",39.6177297106393,95.6090940002329
+"IP011268","Civil Defence Renewals(CDX0775)","Northland","2025-04-01",16.1275477250246,93.8369214467601
+"IP011276","Kaitaia Airport Fencing. Replace fencing around airfield","Northland","2025-04-01",16.1275477250246,93.8369214467601
+"IP011277","Kaitaia Airport Runway","Northland","2025-04-01",11.1956704085786,93.4648452481741
+"IP011278","Kaitaia Airport Upgrades.","Northland","2025-04-01",16.1275477250246,93.8369214467601
+"IP011279","Kaitaia Airport Upgrades.","Northland","2025-04-01",16.1275477250246,93.8369214467601
+"IP011280","Kaitaia Airport Upgrades. Obsolete airfield lighting","Northland","2025-04-01",16.1275477250246,93.8369214467601
+"IP011281","Kaitaia Airport Upgrades.","Northland","2025-04-01",16.1275477250246,93.8369214467601
+"IP011282","Kaitaia Airport Upgrades.","Northland","2025-04-01",16.1275477250246,93.8369214467601
+"IP011283","Kaitaia Airport Upgrades.","Northland","2025-04-01",16.1275477250246,93.8369214467601
+"IP011285","Mangonui Board Walk Extension","Northland","2024-10-01",-273.981801346274,71.9501678130572
+"IP011286","Whangaroa Maritime","Northland","2024-10-01",-77.4494719501028,86.7771793806665
+"IP011287","Hokianga Harbour Coastal Repairs","Northland","2025-04-01",-5.14534482890874,92.2320281198314
+"IP011288","Mangonui Maritime Renewals","Northland","2024-10-01",-30.9989042525065,90.2815550052283
+"IP011290","Maritime - Improvement to Structures","Northland","2024-10-01",56.5421446309499,96.8859246192432
+"IP011293","Maritime Boat Ramp Parking Rangitane(DFP0908)","Northland","2025-07-01",-1227.68268815455,0
+"IP011305","IAF Greenacres Drive, widening Kawakawa","Northland","2028-10-01",-439.184690919031,59.4867468470333
+"IP011332","Amenity lighting, BOI, Whangaroa ward","Northland","2025-04-01",22.5925441884773,94.3246609328929
+"IP011333","Amenity Lighting, Kaikohe, Hokianga ward","Northland","2025-04-01",22.5925441884773,94.3246609328929
+"IP011334","Amenity lighting, Te Hiku ward","Northland","2025-04-01",22.5925441884773,94.3246609328929
+"IP011339","New Bridge Kaitaia Transfer Station","Northland","2025-04-01",-1.00717405470406,92.5442246226988
+"IP011340","Kaitaia Weighbridge Renewals","Northland","2026-04-01",13.2297419956802,93.6183019493895
+"IP013001","Town Beautification Western","Northland","2025-04-01",16.1275477250246,93.8369214467601
+"IP013002","Town Beautification Eastern","Northland","2025-04-01",16.1275477250246,93.8369214467601
+"IP013006","TIF Taipa Beachfront Remedial Works","Northland","2025-04-01",-49.7872737182765,88.8641018449193
+"IP013009","Paihia Waterfront Improvements","Northland","2025-04-01",-67.9527384273614,87.4936425611967
+"IP013010","Waipapa Baysport capark surfacing","Northland","2025-04-01",34.9684270487915,95.2583361144421
+"IP004159","Waitotara Pipeline River Crossing","Manawatū - Whanganui","2026-04-01",-93.9054362107121,23.254431615642
+"IP008131","200 Line Kiwirail Drury realignment","Auckland","2025-10-01",-245.607598691344,45.0175415691545
+"IP012185","Aerodrome Road additional pump station and reticulation","Gisborne","2029-04-01",-3751.51534814672,86.1540654205447
+"IP012186","Campion Rd pump Land - IAF","Gisborne","2027-04-01",-3645.62680097911,94.2928823053561
+"IP012191","Localised Urban Upgrades","Gisborne","2038-04-01",-4872.40662129842,0
+"IP012192","NorthWestern Interceptor","Gisborne","2034-04-01",-3860.38316742958,77.7862554024374
+"IP012207","Graham/Delatour Road","Gisborne","2025-04-01",-3571.3754190211,100
+"IP012208","Integrated Catchment Plan","Gisborne","2031-04-01",-4180.33928795076,53.1937537036983
+"IP012216","Whataupoko","Gisborne","2026-04-01",-3681.57043808884,91.5301786094864
+"IP012217","Anzac and Kahutia Bulk Mains","Gisborne","2032-04-01",-3670.78601499626,92.3590920954738
+"IP012221","City Centre Derby Str. Upgrade","Gisborne","2031-04-01",-3665.59420806038,92.7581453177787
+"IP012223","Kaiti (Hinaki, Waimata) Upgrades","Gisborne","2032-04-01",-3665.85413767982,92.7381665794534
+"IP012224","Kaiti Bulk Main - Crawford Road","Gisborne","2032-04-01",-3765.66032608922,85.0668526067602
+"IP012225","Kaiti Bulk Mains - De Latour/Wainui","Gisborne","2034-04-01",-4145.15757046102,55.8978946519057
+"IP012226","Outer Kaiti Bulk Main Stage 2","Gisborne","2033-04-01",-3665.59420806038,92.7581453177787
+"IP012227","Roebuck and Te Hapara Upgrades","Gisborne","2030-04-01",-3846.38965923967,78.8618259318311
+"IP012228","S/W Elgin/cbd/te Hapara Upgrades","Gisborne","2030-04-01",-3846.38965923967,78.8618259318311
+"IP012240","Dam Road Realignments and culvert renewals","Gisborne","2026-04-01",-3676.6385607724,91.909253093466
+"IP012243","Sang Dam Slump Remedial Works","Gisborne","2028-04-01",-3931.91467386242,72.2881930725235
+"IP012249","Whatatutu Reticulation Renewal","Gisborne","2026-04-01",-3676.6385607724,91.909253093466
+"IP012250","Local Urban Upgrades","Gisborne","2038-04-01",-4840.04744752385,2.48719429003188
+"IP012255","Bulk Distribution - Waingake Trunk Main Refurbishment","Gisborne","2034-04-01",-4226.14683323092,49.6728892386513
+"IP012257","Rabbit Road, Dams Access Roads and Bush Intake Road Culverts renewals","Gisborne","2038-04-01",-4600.97212990571,20.8630270294511
+"IP012259","Demand Management Initiatives","Gisborne","2031-04-01",-3941.26397033263,71.5695864431175
+"IP012261","Lytton Road bulk main renewal/upgrade","Gisborne","2029-04-01",-3751.51534814672,86.1540654205447
+"IP012262","Manutuke mains pressure","Gisborne","2029-04-01",-3746.58347083028,86.5331399045243
+"IP012263","Matawhero area rider mains","Gisborne","2029-04-01",-3746.58347083028,86.5331399045243
+"IP012264","Ormond Road to Hospital Hill reservoir second supply main","Gisborne","2030-04-01",-3846.38965923967,78.8618259318311
+"IP012271","Te Arai swingbridge resilience","Gisborne","2030-04-01",-3841.45778192323,79.2409004158107
+"IP012273","Waingake access roads and fords reinstatement","Gisborne","2028-04-01",-3655.23556490469,93.5543324605287
+"IP012277","Waingake transmission main renewals","Gisborne","2034-04-01",-4226.14683323092,49.6728892386513
+"IP012278","Waingake Treatment Plant road reseal","Gisborne","2030-04-01",-3841.45778192323,79.2409004158107
+"IP000626","Hamilton Transport Network Renewals and Maintenance","Waikato","2028-04-01",25.2032905523496,48.0491807443117
+"IP000637","Hamilton Eastern Pathways Cycling and Public Transport Network Improvements","Waikato","2029-04-01",-460.402498862509,36.2206695034408
+"IP005501","Hamilton Biking Network Programme","Waikato","2029-10-01",-414.550233581698,37.3375508238777
+"IP005507","Boundary/Heaphy Intersection Upgrade","Waikato","2027-04-01",-17.0259699375698,47.0205495103213
+"IP010810","1016_011 - Pavement Rehabilitation - Pukekauri Rd","Waikato","2025-04-01",-50.8925632282308,46.1956182838809
+"IP010811","1017_001 - Sealed Road Resurfacing","Waikato","2034-04-01",-661.04169623831,31.3334481126524
+"IP010814","1146_001 - Paeroa Urban Streetscape","Waikato","2025-04-01",47.4979753130013,48.5922404339847
+"IP010815","1225_001 - Waihi Urban Streetscape","Waikato","2028-04-01",-188.756563675962,42.8374913534495
+"IP012620","1000_001 - Access and Mobility","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP012621","1001_001 - Minor Improvements (Levels of Service)","Waikato","2034-04-01",-754.271744684586,29.0625265131333
+"IP012622","1001_010 - Speed Management Plan and Implementation","Waikato","2025-04-01",20.0706788548722,47.9241592629332
+"IP012623","1001_012 - Whakakawa Coast Improvements","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012624","1001_013 - Drainage Improvements - Resilience","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012627","1003_001 - New Footpaths - Plains","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012628","1004_001 - New Footpaths - Waihi","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP012629","1005_001 - New Kerb Channel Stormwater Control - Plains","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP012630","1006_001 - New Kerb Channel Stormwater Control - Paeroa","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP012631","1006_005 - Coronation Street new K&C","Waikato","2025-04-01",-45.9606859117848,46.3157502253606
+"IP012632","1008_001 - New Road  Extensions","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP012633","1009_001 - Drainage Renewals","Waikato","2034-04-01",-754.271744684586,29.0625265131333
+"IP012634","1011_001 - Footpath Renewal - Paeroa","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP012635","1011_003 - FP Renewal - Paeroa - Western side of Arney St to be replaced from Kea","Waikato","2025-04-01",20.0706788548722,47.9241592629332
+"IP012636","1012_001 - Footpath Renewal - Plains","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP012637","1012_002 - Front Miranda Rd Footpath Renewal RP11 - 157 m (Left)","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012638","1013_001 - Footpath Renewal - Waihi","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP012639","1013_003 - This is for Victoria Rd HRT widening","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012640","1014_003 - Golden Valley Rd Washout Remediation (29th May 2023 event)","Waikato","2025-04-01",-45.9606859117848,46.3157502253606
+"IP012641","1015_001 - Minor Improvements (Renewals)","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP012642","1016_001 - Pavement Rehabilitation","Waikato","2034-04-01",-661.04169623831,31.3334481126524
+"IP012645","1016_016 - Pipiroa rd AWT","Waikato","2025-04-01",-45.9606859117848,46.3157502253606
+"IP012646","1016_017 - Kaihere Rd School AWT","Waikato","2027-04-01",-234.561061584856,41.7217735629951
+"IP012647","1016_018 - Hauraki Rd AWT (Turua urban intersection)","Waikato","2025-04-01",-78.3198596863599,45.5275371128294
+"IP012648","1016_019 - Trig Rd north AWT","Waikato","2026-04-01",-123.473803512315,44.4276656867524
+"IP012649","1016_020 - Hauraki Rd AWT (Orchard Rd intersection)","Waikato","2025-04-01",-45.9606859117848,46.3157502253606
+"IP012650","1016_021 - Waitawheta Rd AWT","Waikato","2028-04-01",-281.856040785499,40.5697502442747
+"IP012651","1018_001 - Structures Component Replacement","Waikato","2034-04-01",-754.271744684586,29.0625265131333
+"IP012652","1018_003 - Trig Road Culvert","Waikato","2027-04-01",-202.201887810281,42.5099866755263
+"IP012653","1019_001 - Traffic Services Renewal","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP012654","1019_003 - Traffic Services Renewal","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP012655","1019_004 - Waihi Streetlight Renewals","Waikato","2025-04-01",47.4979753130013,48.5922404339847
+"IP012656","1020_001 - Unsealed Roading Renewals","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP012694","1112_001 - WPDD Mangawhero Flume Replacement","Waikato","2033-04-01",-654.61702602777,31.4899418890051
+"IP012696","1117_001 - WPDD (F1) - Primary SB Reconstruction","Waikato","2033-04-01",-659.548903344216,31.3698099475254
+"IP012719","1146_002 - Paeroa Urban Streetscape - Willoughby Street Revitalisation","Waikato","2028-04-01",-281.856040785499,40.5697502442747
+"IP012729","1166_001 - Ngatea North","Waikato","2025-04-01",47.6494450655839,48.5959299733397
+"IP012740","1228_001 - Car Parks","Waikato","2031-04-01",-464.608474222432,36.1182192693041
+"IP012745","1241_001 - Paeroa - Minor Reserve - Carpark renewals","Waikato","2023-04-01",49.7461843529893,48.6470028904484
+"IP012747","1243_001 - Hauraki Rail Trail: Resurfacing and bridge approaches","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP012780","1305_001 - Hauraki Rail Trail - Re construction Pipiroa Bridge to Kopu","Waikato","2025-04-01",47.4979753130013,48.5922404339847
+"IP012875","1426_001 - Hauraki Rail Trail: Bridge lead paint","Waikato","2026-04-01",57.4396924725911,48.8344033483055
+"IP012876","1427_001 - Hauraki Rail Trail: Section C geotech investigation and remedy","Waikato","2026-04-01",-25.4059926637181,46.8164267523649
+"IP012879","1430_001 - Hauraki Rail Trail: Waitakaruru to Kopu stopbank re-construction","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP012937","1495_001 - Clarke St Landscaping and Car Park Closure","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012938","1496_001 - Gilmour Lake footpath extension","Waikato","2027-04-01",56.4132713744224,48.8094015180922
+"IP012940","1498_001 - Hauraki Rail Trail: Waihi to Waihi Beach Extension","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012949","1507_001 - Railway reserve relacement  trampoline","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012952","1510_001 - Gilmour Lake weir bridge","Waikato","2026-04-01",57.4396924725911,48.8344033483055
+"IP012957","1515_001 - Ridgewater Place  Waihi - Urbanisation (utalizing FC's)","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012958","1516_001 - Ngatitangata Rd Seal Extension RP 1221 - 1648","Waikato","2025-04-01",20.0706788548722,47.9241592629332
+"IP012959","1517_001 - Footpath Renewal - Paeroa - Western side of Arney St to be replaced fr","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012960","1518_001 - Paeroa Off Street Car Park Renewals","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP012961","1519_001 - Plains Off Street Car Park Renewal","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP012962","1520_001 - Waihi Off Street Car Park Renewal","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP012963","1520_002 - Silverton Carpark Renewal","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012977","1534_001 - Whiritoa Emergency Centre Asphalt Carpark","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012981","1538_001 - Plains Community Hub Carpark Renewal","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012985","1544_003 - Safety Barriers at Waihi - LoS - Renewal","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP012990","1544_008 - Constuct a slip lane next to weigh bridge for recycling - LoS - New gr","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP009775","Ngaruroro Cycleway Explorer","Hawke's Bay","2024-04-01",NA,NA
+"IP009776","Karumu Cycleway extension","Hawke's Bay","2025-04-01",NA,NA
+"IP009802","Taradale Carpark PUR","Hawke's Bay","2024-04-01",NA,NA
+"IP009803","Ahuriri Regional Park Cycleway future enhancement","Hawke's Bay","2024-10-01",NA,NA
+"IP009804","Esk Valley Feasibility Cycleway study","Hawke's Bay","2026-04-01",NA,NA
+"IP009314","Water - Rail/SH road Crossing ducts including consenting - District Wide","Canterbury","2034-04-01",-685.091639000863,58.8292869951329
+"IP009447","Stormwater - Upgrading size of Flax Stream culvert crossing under State Highway 7A - HS","Canterbury","2025-04-01",29.8358859879736,71.088187084373
+"IP009462","Subsidised Roading - Unsealed Road Metalling - District Wide","Canterbury","2034-04-01",-652.580995473705,59.3867487194421
+"IP009463","Subsidised Roading - Sealed Road Resurfacing - District Wide","Canterbury","2034-04-01",-684.94016924828,58.8318842549929
+"IP009464","Subsidised Roading - Drainage Renewals - District Wide","Canterbury","2034-04-01",-652.580995473705,59.3867487194421
+"IP009465","Subsidised Roading - Sealed Road Pavement Rehab - District Wide","Canterbury","2034-04-01",-684.94016924828,58.8318842549929
+"IP009466","Subsidised Roading - Structures Component Replcm’ts  - District Wide","Canterbury","2034-04-01",-684.94016924828,58.8318842549929
+"IP009467","Subsidised Roading - Bridge and structures renewals - District Wide","Canterbury","2034-04-01",-684.94016924828,58.8318842549929
+"IP009468","Subsidised Roading - Traffic Services Renewals  - District Wide","Canterbury","2034-04-01",-652.580995473705,59.3867487194421
+"IP009469","Subsidised Roading - Low Cost Low Risk Capital Works - District Wide","Canterbury","2034-04-01",-684.94016924828,58.8318842549929
+"IP009474","General Footpath Renewals (NZTA Funded) - District Wide","Canterbury","2034-04-01",-685.091639000863,58.8292869951329
+"IP009476","Planned Footpath Renewals - Leithfield","Canterbury","2034-04-01",-680.159761684417,58.9138541563646
+"IP009477","Planned Footpath Renewals - Culverden","Canterbury","2034-04-01",-680.159761684417,58.9138541563646
+"IP009480","Planned Footpath Renewals - Cheviot","Canterbury","2034-04-01",-680.159761684417,58.9138541563646
+"IP009481","Planned Footpath Renewals - Waipara","Canterbury","2034-04-01",-680.159761684417,58.9138541563646
+"IP009482","Planned Footpath Renewals - Hanmer Springs","Canterbury","2027-04-01",158.104020585303,73.2876075734448
+"IP009483","Planned Footpath Renewals - Hawarden","Canterbury","2034-04-01",-680.159761684417,58.9138541563646
+"IP009484","Planned Footpath Renewals - Waikari","Canterbury","2034-04-01",-680.159761684417,58.9138541563646
+"IP009489","Roadside Construction - Street Lighting - Hanmer Springs","Canterbury","2034-04-01",-680.159761684417,58.9138541563646
+"IP009532","Walking & Cycling Routes - Amberley","Canterbury","2025-04-01",29.8358859879736,71.088187084373
+"IP012364","Water - Hawarden bypass","Canterbury","2032-04-01",49.7781285487227,71.4301377724674
+"IP012370","Lower Waitohi - Upgrade of Main line from Karaka","Canterbury","2026-04-01",71.3528792307168,71.8000811636734
+"IP012380","Wastewater - Leithfield pipe bridge replacement on SH1","Canterbury","2025-04-01",29.8358859879736,71.088187084373
+"IP012447","Stormwater - Fix undersize culvert in High Street - Hawarden","Canterbury","2025-04-01",62.1950597625487,71.6430515488221
+"IP012453","Carp parks - District Wide","Canterbury","2034-04-01",-570.912282965959,60.7871264529263
+"IP012454","Queen Mary South Development - Hanmer Springs","Canterbury","2034-04-01",-684.94016924828,58.8318842549929
+"IP012468","Replacement footbridge - Brooke Dawson Reserve","Canterbury","2025-04-01",29.8358859879736,71.088187084373
+"IP012474","Rutherford Railway Reserve - Ring road pavement repairs and resurfacing","Canterbury","2034-04-01",54.9699354846014,71.5191619606333
+"IP012476","Scargill Motunau Recreation Reserve - Bridge","Canterbury","2025-04-01",29.8358859879736,71.088187084373
+"IP008583","Cross Valley Connections","Wellington","2032-10-01",-3517.34164675256,18.6438868735111
+"IP013311","Te Wai Takamori o Te Awa Kairangi (RiverLink) - Hutt City Council","Wellington","2031-10-01",-3763.78636747023,12.8260194724759
+"IP010403","11093 Mangawhai SW (Eveline street)","Northland","2024-10-01",-40.3152747632755,89.5786989725556
+"IP010406","13049 Alamar Carpark","Northland","2024-10-01",-35.3833974468295,89.9507751711416
+"IP010419","15002 Kaiwaka Rangiora Rd park development","Northland","2024-10-01",-35.3833974468295,89.9507751711416
+"IP010422","15017 Mangawhai Coastal Walkway (Breve St track)","Northland","2024-10-01",-67.7425712214045,87.5094982303552
+"IP010425","15065 Storm damage - Awakino Rail embankment reconstruction","Northland","2024-10-01",-89.0953409793808,85.8985787181572
+"IP008173","Cycleways, Walkways and Bridleways","Wellington","2027-04-01",-3062.03188471733,29.3924710355251
+"IP008174","Footpath programme","Wellington","2027-04-01",-3066.96376203378,29.2760432695673
+"IP008176","Ihakara-Arawhata Link Rd","Wellington","2026-04-01",-3188.12394017143,26.4157918970163
+"IP008191","SH1 Revocation","Wellington","2025-04-01",-3486.56480875272,19.3704415425856
+"IP000176.1","Auckland Metro Rail Network Programme - Wiri to Quay Park","Auckland","2025-01-01",438.884472452179,58.7418766455222
+"IP000176.2","Auckland Metro Rail Network Programme - Papakura to Pukekohe Electrification","Auckland","2024-07-01",485.063498173817,59.6677842626041
+"IP000176.3","Auckland Metro Rail Network Programme - Additional Traction Feed (West)","Auckland","2025-04-01",-75.7971961123286,48.4223068874055
+"IP000176.5","Auckland Metro Rail Network Programme - Accelerated Renewals","Auckland","2027-04-01",2496.60589569476,100
+"IP000180.3","Rolling Stock Procurement & Mechanical Facilities - Tier 2&3 Mechanical facilities","Nationwide","2026-10-01",NA,NA
+"IP000181","Wellington Metro Rail Network Programme - Stage 2 - Power Supply Renewal and Upgrade","Wellington","2024-10-01",-3134.29679315452,27.6864995957181
+"IP000182","Wellington Metro Rail Network Programme - Stage 3 - Track and Civil Infrastructure Renewals","Wellington","2026-04-01",-3177.31575667667,26.6709427407246
+"IP000183","Wellington Metro Rail Network Programme - Stage 4 - Network Capacity Improvements","Wellington","2025-01-01",-3081.09422412981,28.9424627629503
+"IP000705","Wellington Metro Rail Network Programme - Stage 6b - Wairarapa Infrastructure Upgrades","Wellington","2025-10-01",-2899.80693463394,33.2221462907966
+"IP000706","Wellington Metro Rail Network Programme - Stage 5 - now called Wellington Resignalling (ETCS)","Wellington","2026-01-01",-71.0986858757327,100
+"IP003200","Auckland Metro Rail Network Programme - Drury Rail Stations","Auckland","2026-04-01",408.802457030306,58.1387204121234
+"IP003201","Rolling Stock Procurement & Mechanical Facilities - Mechanical Depots - Woburn","Wellington","2025-04-01",-3148.1418804507,27.3596559862858
+"IP003204","Wellington Metro Rail Network Programme - Stage 6a - Wellington Train Station Safety Improvements","Wellington","2025-01-01",-2842.80861748697,34.5677164059832
+"IP005897","Hillside Redevelopment - Wagon Assembly Workshop","Otago","2024-10-01",-1202.69048998618,77.0900382786021
+"IP006532","Whangarei to Otiria","Northland","2024-10-01",17.4258898079797,93.934872420739
+"IP010398","Auckland Metro - Southern corridor 4 tracking (Westfield to Pukekohe)","Auckland","2042-10-01",-1649.49297127062,16.8690880306044
+"IP010399","Auckland Metro - Avondale to Southdown crosstown rail corridor","Auckland","2050-10-01",-2490.82750151343,0
+"IP010400","Auckland Metro - Signalling and telecommunications","Auckland","2032-10-01",114.814754478315,52.2441514196522
+"IP012495","Critical Network Investment - Overdue renewals","Nationwide","2046-04-01",NA,NA
+"kaOrProject_2180","Tamaki Precinct Transport Bundle","Auckland","2031-01-01",-568.126187740734,38.5509170879148
+"kaOrProject_2568","Mount Roskill Precinct Transport Bundle","Auckland","2030-01-01",-542.813590857105,39.0584446049298
+"kaOrProject_2570","Mount Roskill Precinct Electricity Bundle","Auckland","2030-01-01",-827.432306935048,33.3517274738847
+"kaOrProject_2574","Mangere Precinct Transport Bundle","Auckland","2033-10-01",-1224.82783703298,25.38379089311
+"kaOrProject_2577","Mangere Precinct Electricity Bundle","Auckland","2033-10-01",-1406.69686355239,21.7372454250297
+"MBIE_R02.01210","Redevelopment of Taupō Airport","Waikato","2025-01-01",-320.379698655584,39.6313810359816
+"MBIE_R03.01294.G","Pūtauaki Industrial Development Off-Highway Road Construction - Grant","Bay of Plenty","2024-01-01",-213.758217673701,50.6183783855757
+"MBIE_R03.01371","Kawerau Container Terminal Rail Siding","Bay of Plenty","2026-04-01",-339.113172628029,48.0914754413511
+"MBIE_R04.00035","Tairawhiti Roading Package - Cluster","Gisborne","2024-04-01",-3828.86660481475,80.2086848230134
+"MBIE_R05.06214","Facility Expansion of The Limery in Wairoa - Grant","Hawke's Bay","2024-07-01",NA,NA
+"MBIE_R08.11924","Construction of Tāwhaki Aerospace at Kaitōrete Spit, Banks Peninsula","Canterbury","2024-07-01",47.9924056685369,71.3995178877797
+"MBIE_R12.04104","Port Tarakohe Upgrade","Tasman","2038-10-01",NA,NA
+"MBIE_TIF-R3-024","Restoring the Mauri of Matapouri - Stage 1","Northland","2024-04-01",-123.372436764348,83.3126077622883
+"MBIE_TIF-R5-016","Kaikoura Link Pathway Project","Canterbury","2024-04-01",-42.5662906364236,69.846703131862
+"MBIE_TIF-R5-025","Fairlie Camper Dump Station","Canterbury","2024-04-01",-55.5255868314145,69.6244893944853
+"MBIE_TIF-R5-029","Alexandra Riverside Park Development","Otago","2024-10-01",-1153.18059177316,82.424749413703
+"MBIE_TIF-R5-059a","Glenorchy Carpark and Marina","Otago","2024-10-01",-1185.46527189384,78.9460623480999
+"MBIE_TIF-R5-059b","Marine Parade Development","Otago","2022-10-01",-990.069816782822,100
+"MBIE_TIF-R5-059c","Wanaka Lakefront Development - Stage 5","Otago","2024-10-01",-1185.46527189384,78.9460623480999
+"MBIE_TIF-R5-059d","Wanaka Tree Carpark","Otago","2023-10-01",-1090.40715706921,89.1886118571856
+"MBIE_TIF-R5-060","Havelock Carpark","Marlborough","2024-10-01",-279.078825981331,38.9478576797922
+"MBIE_TIF-R5-062","Link Pathway","Marlborough","2025-04-01",-319.438294719885,34.8900529511684
+"IP000185","Feilding Enabling Growth Infrastructure Project","Manawatū - Whanganui","2025-04-01",-460.087595102335,13.2465086778434
+"IP008657","Roading","Marlborough","2028-04-01",328.153949911741,100
+"IP008934","Blenheim CBD Street scape Invigoration","Marlborough","2024-10-01",-165.766987178452,50.3404089118685
+"IP012507","Hood Aerodrome - Upgrade Stages 1 & 2 and Runway - Masterton","Wellington","2026-01-01",-3015.86148145864,30.4824245278506
+"IP012518","Millard Avenue - Roading Urbanisation - Masterton","Wellington","2027-04-01",-3016.82189093284,30.4597519587026
+"IP012519","Chamberlain Rd -Roading Upgrade - Masterton","Wellington","2028-04-01",-2939.58845984967,32.2830162577325
+"IP012520","Judds Road - Level Crossing Improvements - Masterton","Wellington","2035-04-01",-3807.15830579597,11.8021298741504
+"IP012521","Walking and Cycling Improvements - Masterton","Wellington","2034-04-01",-3473.20867708488,19.6857422834902
+"IP012522","Mataikona Road - Upgrade Stages 1-3 - Masterton","Wellington","2035-04-01",-3474.70146997897,19.6505016376782
+"IP012523","Roading Renewals - Rural","Wellington","2035-04-01",-3620.35740196011,16.2119743445282
+"IP012524","Roading Renewals - Urban","Wellington","2035-04-01",-3807.00683604338,11.8057056494124
+"IP012525","Roading - Cyclone Recovery/Reinstatement - Masterton","Wellington","2025-04-01",-2818.28579312248,35.146631385521
+"IP012526","HPMV Bridge Upgrades - Masterton","Wellington","2035-04-01",-3563.15111086139,17.5624541403549
+"IP012527","MinImpvt-RAB works - Masterton","Wellington","2035-04-01",-3568.08298817783,17.4460263743971
+"IP012528","Raised Speed Tables  - Masterton","Wellington","2035-04-01",-3563.15111086139,17.5624541403549
+"IP012529","Ngaumutawa Paierau Roads - Speed management - Masterton","Wellington","2035-04-01",-3563.15111086139,17.5624541403549
+"IP012530","Level Crossing - Improvements - Masterton","Wellington","2035-04-01",-3807.15830579597,11.8021298741504
+"IP012531","Rural Roads - Minor Improvements - Masterton","Wellington","2035-04-01",-3807.00683604338,11.8057056494124
+"IP012532","Urban Roads - Minor Improvements - Masterton","Wellington","2035-04-01",-3807.15830579597,11.8021298741504
+"IP012533","Footpath - Renewals - Masterton","Wellington","2025-04-01",-2795.29298856781,35.689426896366
+"IP013072","Street Furniture Replacement  - Distrct-wide, Matamata, Morrinsville, Te Aroha","Waikato","2034-07-01",-805.504106263678,27.8145954174912
+"IP013074","Tracks & Track Structures Renewals - District-wide, Matamata, Morrinsville, Te Aroha","Waikato","2027-04-01",-136.530278226061,44.1096327034476
+"IP013076","Waharoa Rest Area Car Park Upgrade, Matamata","Waikato","2027-04-01",-54.1807031031352,46.1155249235469
+"IP013086","Renewals - Pavement Renewals - Subsidised","Waikato","2034-04-01",-693.400870012886,30.5452350001212
+"IP013087","Renewals - Reseals - Subsidised","Waikato","2034-04-01",-693.400870012886,30.5452350001212
+"IP013088","Renewals - District-wide Footpaths - Subsidised","Waikato","2034-04-01",-786.782388211744,28.2706238612471
+"IP013089","Renewals - Traffic Services - Streetlight poles, posts, signs - Subsidised","Waikato","2034-04-01",-786.782388211744,28.2706238612471
+"IP013090","Renewals - Unsealed Roads- Subsidised","Waikato","2034-04-01",-781.850510895298,28.3907558027268
+"IP013092","Renewals - Structure Renewals- Subsidised","Waikato","2034-04-01",-781.850510895298,28.3907558027268
+"IP013093","Everard Avenue Intersection Upgrade, Matamata","Waikato","2031-04-01",45.2047283515,48.5363809321965
+"IP013094","Hampton Terrace Upgrade, Matamata","Waikato","2028-04-01",55.5633715071985,48.7886994376142
+"IP013095","Matamata - Station to Peria Road Link","Waikato","2028-04-01",-216.183860134091,42.169410182398
+"IP013096","Matamata - Tower Road Pedestrian","Waikato","2025-04-01",20.0706788548722,47.9241592629332
+"IP013097","Matamata - Hinuera to Station Road Link","Waikato","2027-04-01",-136.530278226061,44.1096327034476
+"IP013098","Morrinsville - Avenue Road North Upgrades","Waikato","2026-04-01",25.080518698016,48.0461902357743
+"IP013099","Matamata - Tower Road Parking Bays","Waikato","2026-04-01",57.4396924725911,48.8344033483055
+"IP013100","Matamata - Station Road 1 Upgrade","Waikato","2027-04-01",56.4132713744224,48.8094015180922
+"IP013101","Morrinsville - Tahuna,Hangawere, Taukoro Roundabout","Waikato","2028-04-01",-29.0731838586437,46.7271003620764
+"IP013102","Morrinsville - Hangawere Road to Snell","Waikato","2029-04-01",-115.390425512464,44.6245626958483
+"IP013103","Banks/Burwood Road intersection upgrade, Matamata","Waikato","2028-04-01",55.5633715071985,48.7886994376142
+"IP013104","Smith Street upgrade, Matamata","Waikato","2031-04-01",45.2047283515,48.5363809321965
+"IP013140","Matamata Tills Rd UV Upgrade DWQAR Compliance Upgrades","Waikato","2028-04-01",55.5633715071985,48.7886994376142
+"NZTA_0009037A","SH22 (Drury) (South Auckland Package)","Auckland","2025-10-01",-116.267732702904,47.6108567212092
+"NZTA_0009037B","Waihoehoe Road (South Auckland Package)","Auckland","2031-01-01",-568.126187740734,38.5509170879148
+"NZTA_100022013","(af) Vic Park Tunnel","Auckland","2025-04-01",-547.950073610056,38.955456106761
+"NZTA_100362012","RoNS Takitimu North Link Stage 1","Bay of Plenty","2028-04-01",2235.97217944974,100
+"NZTA_100852013","(ax) Manukau Hbour. Xing","Auckland","2024-04-01",308.943154103245,56.1365021372296
+"NZTA_101302014","RoNS East West Link","Auckland","2034-04-01",-1583.08312537575,18.2006315441889
+"NZTA_102202014","SH1 Southern Corridor Improvements","Auckland","2026-04-01",-51.92593548653,48.9009350459121
+"NZTA_102332014","NCI - Overall Package","Auckland","2028-04-01",2256.15543992234,95.178873849082
+"NZTA_102542013","Whakaruatapu Bridge Realignment","Manawatū - Whanganui","2024-04-01",-620.786304653572,8.8545407396445
+"NZTA_103662014","SH2: Wainui Rd to Opotiki, NSRRP","Bay of Plenty","2028-04-01",-684.658911614025,41.1259706033005
+"NZTA_103722014","SH33 Te Ngae Junction to Paengaroa,NSRRP","Bay of Plenty","2025-07-01",-620.465857504747,42.419973042108
+"NZTA_103972014","SH88 Dunedin -Port Chalmers Safety Impt","Otago","2024-10-01",-1223.70903349563,74.8252818935045
+"NZTA_104052014","RoRS Queenstown Package","Otago","2031-01-01",-1718.2286312935,21.540599433703
+"NZTA_104342014","SH6 SH8B SH8 Gibbston to Clyde","Otago","2026-04-01",-1918.14065246986,0
+"NZTA_104372013","SH1 WEx Longswamp Section","Waikato","2025-04-01",-403.380648374021,37.6096224652477
+"NZTA_104972014","RoRS SH75 Halswell Rd Imps","Canterbury","2028-10-01",-290.038704653857,65.6032805579024
+"NZTA_105412014","RoRS SH73 Weedons-Ross Road Intersection","Canterbury","2026-07-01",-463.591270884864,62.6273655241507
+"NZTA_105662014","SH1S Bluff Highway/Elles Road I/S Imp","Southland","2025-07-01",NA,NA
+"NZTA_105672014","SH12 Matakohe Bridges","Northland","2024-07-01",-514.913910690879,53.7734984414757
+"NZTA_107062014","SH1 Dome Valley Safety Improvements","Auckland","2024-04-01",-550.009008555456,38.9141736518103
+"NZTA_107242014","SH7 Stoney Creek Bridge","West Coast","2026-01-01",-288.181105546932,11.6288862354594
+"NZTA_107352014","SH26 (Onetai Stream) Bridge Replacement","Waikato","2025-01-01",-196.939045875422,42.6381803386629
+"NZTA_107392014","Weigh Right Glasnevin","Canterbury","2024-10-01",-321.885809572465,65.0571965652139
+"NZTA_108312014","SH76 Brougham St Corridor Improvements","Canterbury","2027-07-01",-410.992942319196,63.5292718464141
+"NZTA_108622014","Weigh Right Ohakea","Manawatū - Whanganui","2025-01-01",-363.805039492278,15.8779541849549
+"NZTA_108902014","Weigh Right Napier Port","Hawke's Bay","2024-10-01",NA,NA
+"NZTA_109102014","New Opaoa River Bridge","Marlborough","2025-04-01",-635.812116597183,3.08132923523691
+"NZTA_109552013","SH1 WEx Ngaruawahia Section","Waikato","2028-04-01",-700.463384688078,30.373204443556
+"NZTA_109872013","Normanby Overbridge Realignment","Taranaki","2024-10-01",NA,NA
+"NZTA_110302013","SH1 Akerama Curves Realign and PL","Northland","2030-07-01",-1155.76795978397,5.4254712835705
+"NZTA_112802015","SH1 ETA Corridor Improvements","Waikato","2027-07-01",-731.104370929392,29.6268433867336
+"NZTA_112892013","SH1 WEx Huntly Section","Waikato","2025-10-01",200.194848384071,52.311670306811
+"NZTA_112912013","SH1 WEx Hamilton Section","Waikato","2028-01-01",2157.98383086569,100
+"NZTA_114102013","SH27 Mangawhero Bridge, NSRRP","Waikato","2027-10-01",-827.256949986924,27.2847340317541
+"NZTA_117702016","20Connect (Airport Access Imps)","Auckland","2024-10-01",-531.243704653583,39.2904253710288
+"NZTA_118002016","SH3 Awakino Tunnel Bypass","Waikato","2025-07-01",-474.548130592568,35.8761065522251
+"NZTA_118102016","SH3 Mt Messenger Bypass","Taranaki","2029-01-01",NA,NA
+"NZTA_118312016","SH10 Kaeo Bridge Upgrade","Northland","2026-10-01",-620.998713602245,45.7701302183083
+"NZTA_118802016","SH5 Napier To Taupo","Hawke's Bay","2026-04-01",NA,NA
+"NZTA_119502016","SH2 Raupunga Bluff Enhanched Reslience","Hawke's Bay","2024-04-01",NA,NA
+"NZTA_120412016","W2T Waihi to Omokoroa","Bay of Plenty","2025-10-01",-169.01282173537,51.5203552781386
+"NZTA_120532016","RoNS Takitimu North Link Stage 2","Bay of Plenty","2034-01-01",-1367.08785036805,27.3695802381177
+"NZTA_120552016","SH30 Eastern Corridor Connect Rotorua","Bay of Plenty","2025-04-01",-595.772603803243,42.917739209417
+"NZTA_120602016","SH16 Brigham Creek to Waimauku","Auckland","2030-01-01",-635.303159876827,37.2039923916632
+"NZTA_120812016","SH50 HB Expressway Safety Treatments","Hawke's Bay","2024-04-01",NA,NA
+"NZTA_121212016","SH3/3A Waitara to Bell Block","Taranaki","2027-10-01",NA,NA
+"NZTA_121622016","RoNS SH29 Tauriko West Network Connection","Bay of Plenty","2032-04-01",-1218.0488508152,30.3739057305692
+"NZTA_121812016","SH3 Awakino Gorge to Mt Messenger Corrid","Waikato","2025-07-01",-569.104854555589,33.5728694478153
+"NZTA_122422016","RoNS Hamilton Southern Links","Canterbury","2025-10-01",-597.738770722315,60.3271312482997
+"NZTA_123442016","SH1 Clarence and Oaro Improvement (NLTF)","Canterbury","2024-10-01",-91.8005238623986,69.0024811303424
+"NZTA_123452013","RIO SH02 College Rd-Silverstream IMPR","Hawke's Bay","2024-10-01",NA,NA
+"NZTA_124302017","RONS SH1 Whangarei to Port Marsden Highway","Northland","2031-07-01",92.409230547748,99.5918493870344
+"NZTA_124902017","RoRS SH1 Papakura to Bombay","Auckland","2032-07-01",1785.78548019109,85.7477712704581
+"NZTA_124922017","Supporting Growth Alliance","Auckland","2030-04-01",-857.815332493622,32.7425358689285
+"NZTA_125002017","SH16/18 Connections","Auckland","2021-10-01",-427.743009775911,41.3656549858365
+"NZTA_125202017","Weigh Right Rakaia","Canterbury","2025-01-01",-422.65626574372,63.329280222687
+"NZTA_125512017","Weigh Right Tauranga Port","Bay of Plenty","2025-01-01",-557.788705896009,43.6834179453704
+"NZTA_125522017","Weigh Right Taupo","Waikato","2026-04-01",-636.973598389461,31.919705056365
+"NZTA_125802017","SH6 Blenheim to Woodbourne Safety Improv","Marlborough","2027-04-01",-666.459429432495,0
+"NZTA_125902017","RoNS SH1 Cambridge to Piarere","Waikato","2032-04-01",-1180.55320750291,18.6790525417928
+"NZTA_126502017","Petone to Melling Walking Cycling Link","Wellington","2025-04-01",-3299.91537466944,23.7767102377013
+"NZTA_126742017","SH2 Inter-Regional Connections - Waioeka","Gisborne","2025-04-01",-4103.34208178004,59.1119212338809
+"NZTA_128302017","Waimakariri Bridge safety and reliabilit","Canterbury","2024-07-01",-135.985479332289,68.2448393616032
+"NZTA_128702017","Weigh Right Stanley Street","Auckland","2025-04-01",-703.444376558424,35.8377342132635
+"NZTA_128712017","Weigh Right Bombay","Auckland","2026-04-01",-779.354772686432,34.31570093317
+"NZTA_128812013","SH1 WEx Te Rapa Section","Waikato","2026-07-01",-328.652783734656,39.4298630928524
+"NZTA_129252013","SH1 Additional Waitemata Harbour Connect","Auckland","2027-04-01",-197.969761896083,45.9726989216702
+"NZTA_129512017","Weigh Right MacKays","Wellington","2026-04-01",-3594.83437865531,16.8145012107091
+"NZTA_129802017","Hamilton to Cambridge Cycle Connection","Waikato","2025-04-01",-565.736866803295,33.6549077633698
+"NZTA_132102018","SH30 Kopaki Bridge Replacement","Waikato","2028-04-01",-686.443454945103,30.714705513304
+"NZTA_132702018","Peka Peka to Otaki Revocation","Wellington","2027-04-01",-3294.84737739343,23.8963514134375
+"NZTA_133502018","Palmerston North Integrated Transport Im","Manawatū - Whanganui","2025-04-01",-380.998781593513,15.4080414877269
+"NZTA_133702013","SH2: Baypark to Bayfair Link Upgrade","Bay of Plenty","2026-07-01",128.6730450943,57.5211016676214
+"NZTA_135002018","Te Ahu a Turanga Manawatu Tararua Highw","Manawatū - Whanganui","2025-04-01",2714.15554617436,100
+"NZTA_135342018","SH43 Forgotten World Highway-Tangarakau","Taranaki","2026-01-01",NA,NA
+"NZTA_135412018","SH35 and connecting routes: Resilience","Gisborne","2027-04-01",-4319.24156188667,42.5174322063526
+"NZTA_135442018","SH35 and connecting routes: Passing Oppo","Gisborne","2024-10-01",-4124.2044063091,57.5083990053181
+"NZTA_135912018","Waikare Gorge","Hawke's Bay","2029-10-01",NA,NA
+"NZTA_136102018","SH2 Inter-Reg connections: Passing Opps","Hawke's Bay","2027-04-01",NA,NA
+"NZTA_136442013","RoNS SH1 Belfast to Pegasus & Woodend BP","Canterbury","2032-04-01",1715.94562668584,100
+"NZTA_137382013","Loop Rd Nth to Smeatons Hill SI","Northland","2026-10-01",-488.079055496588,55.798003567952
+"NZTA_137452019","Hamilton Urban Improvements - Bus priori","Waikato","2028-01-01",-389.867778084908,37.9387724498552
+"NZTA_137792019","Wakatipu Walking/Cycling Network Improve","Otago","2026-04-01",-1528.60149836742,41.9729980863011
+"NZTA_138102019","SH1 Whangarei to Wellsford SSI (Northern","Northland","2026-04-01",-484.150374212564,56.0943955306516
+"NZTA_138812019","SH1 Tokoroa to Taupo Safer Corridor","Waikato","2026-04-01",-234.188220511919,41.7308553221471
+"NZTA_138902019","SH1 Whangarei to Wellsford SSI (Central","Northland","2029-04-01",-524.166934867735,53.075421453699
+"NZTA_139372019","SH1 Second Mt Victoria Tunnel and Basin Reserve Upgrade","Wellington","2035-04-01",-4235.92440316375,1.68016705311323
+"NZTA_139912019","RoNS SH29 Tauriko West Network Connection","Canterbury","2027-04-01",-521.988490858675,61.626025304162
+"NZTA_140212019","SH1 Whangarei to Wellsford SSI (Southern","Northland","2027-04-01",-468.360957986471,57.2855983101097
+"NZTA_140302019","SH1 Ashley to Belfast Saltwater-William","Canterbury","2025-04-01",-285.581224861449,65.6797131996947
+"NZTA_140322019","SH1/SH57 - Otaki to Levin SIP","Manawatū - Whanganui","2025-07-01",-197.36883111805,20.4267305439956
+"NZTA_140352019","SH1 Cambridge to Piarere safety imp","Waikato","2026-10-01",-362.80731914707,38.5979180978406
+"NZTA_140362019","SH1 Oamaru-Dunedin (Herbert to Hampden)","Otago","2025-04-01",-1425.8768014508,53.041624851259
+"NZTA_140392019","SH22: SH1 Drury to Paerata (corridor)","Auckland","2025-04-01",-563.468298264955,38.6443096027579
+"NZTA_140512019","SH2 Omokoroa to Te Puna safety imp","Bay of Plenty","2025-04-01",-153.71209922811,51.8287869693027
+"NZTA_140652013","RoRS Walnut Avenue Intersection Improvements","Canterbury","2027-07-01",-1008.36217365238,53.2861500370895
+"NZTA_140702019","SH94 Homer Tunnel Rockfall/Avalanche Pro","Southland","2024-10-01",NA,NA
+"NZTA_141102019","SH38 Wairoa to Murupara","Hawke's Bay","2029-10-01",NA,NA
+"NZTA_141722019","North West Rapid Transit Improvements","Auckland","2038-04-01",-1730.05091250997,15.2538696442407
+"NZTA_142432013","RoNS Hamilton Southern Links","Waikato","2034-04-01",-1947.40001268133,0
+"NZTA_142502020","RoRS Penlink","Auckland","2029-07-01",2200.61888652882,94.0653441240614
+"NZTA_142662020","RIO SH05 and SH36 Ngongotaha IS IMPR","Bay of Plenty","2025-01-01",-335.999662931759,48.1542375142284
+"NZTA_142682020","RIO West Coast SL Bridge SFT IMPR","West Coast","2024-10-01",-222.035136368007,26.7957937321124
+"NZTA_142832020","RIO SH08-SH79-SH80 MacKenzie Basin IMPR","Canterbury","2024-04-01",-239.041856287295,66.4777262144765
+"NZTA_142842020","RIO SH06 and SH08B Cromwell IS SFT IMPR","Otago","2024-04-01",-1198.61883991693,77.5287601856686
+"NZTA_142852020","RIO SH01S Kakanui Rvr Flood Mitigation","Otago","2025-10-01",-1328.3772653708,63.5472384672523
+"NZTA_142902020","RIO SH43 SFT IMPR","Taranaki","2025-04-01",NA,NA
+"NZTA_142922020","RIO SH43 Kahouri Stream Bridge Replaceme","Taranaki","2025-10-01",NA,NA
+"NZTA_143102020","SH1 Levin to Foxton SIP","Manawatū - Whanganui","2028-04-01",-475.982993976883,12.8120802843805
+"NZTA_143202020","Auckland Network Optimisation Programme","Auckland","2025-04-01",-514.50785802192,39.6259856742708
+"NZTA_143272013","CHCH Northern Arterial Rural with QE2","Canterbury","2024-10-01",354.684596995826,76.6583851158809
+"NZTA_143502020","SH2 Masterton to Carterton (CI)","Wellington","2025-07-01",-3099.39904852576,28.5103372914663
+"NZTA_143602020","SH3 - New Plymouth to Egmont Village","Taranaki","2027-10-01",NA,NA
+"NZTA_143702020","SH1 Picton Port Access Improvements","Marlborough","2024-04-01",-481.504373751551,18.595673406574
+"NZTA_143802020","RoRS SH58 Safety Improvements - Stage 2","Wellington","2027-04-01",-3177.77473935591,26.6601074493074
+"NZTA_144012020","SH1 Taupo Airport to Hatepe","Waikato","2028-04-01",-318.622378635079,39.6741862909218
+"NZTA_144042013","Western Belfast By-Pass","Canterbury","2024-04-01",-286.960406790613,65.6560642941993
+"NZTA_144042020","SH1 Tokoroa to Taupo - CI Stage 2","Waikato","2030-10-01",-396.721402929006,37.7718300857478
+"NZTA_144082020","SH1 Selwyn River to Ashburton Safety Imp","Canterbury","2030-10-01",-698.795934697616,58.5942987118905
+"NZTA_144112020","SH6 Wanaka to Luggate SC - SH84 IS","Otago","2025-10-01",-1363.20199644155,59.794859906087
+"NZTA_144152020","SH1 Bulls to Sanson CI - Pukenui Rd IS","Manawatū - Whanganui","2025-07-01",-166.151883321646,21.2799037538683
+"NZTA_144162020","SH1 Oamaru-Dunedin (Hampden-Palmerston)","Otago","2025-04-01",-1347.02073502126,61.5383972308331
+"NZTA_144212013","SH1 WEx Rangiriri Section","Waikato","2029-07-01",-762.371148504028,28.8652391429847
+"NZTA_144522020","RoRS SH1 Tinwald Corridor Improvements","Canterbury","2025-07-01",-225.003109573088,66.7184493470071
+"NZTA_144602020","RoRS Rolleston Access Improvements","Canterbury","2033-04-01",-624.271938338002,59.8721656196413
+"NZTA_144902020","SH33 (Te Ngae Junction-Paengaroa) TNJ IS","Bay of Plenty","2024-10-01",-246.54829554093,49.9573965812726
+"NZTA_145502013","RoRS SH1-29 Intersection Improvements","Waikato","2029-04-01",-514.272471279709,34.9084908017617
+"NZTA_145602020","SH25 Pepe Stream Bridge replacement","Waikato","2028-07-01",-559.645690438891,33.8032782104835
+"NZTA_146012020","CIP SH30 Eastern Corridor, Rotorua","Bay of Plenty","2025-10-01",-176.175809099704,51.3759639067168
+"NZTA_146022020","CIP SH94 Homer Tunnel","Southland","2026-04-01",NA,NA
+"NZTA_148622021","SH29 Piarere to SH28","Waikato","2027-04-01",-229.000417396919,41.8572211703285
+"NZTA_148632021","SH30 Awakeri to Whakatane","Bay of Plenty","2030-07-01",-555.230620733588,43.7349837804094
+"NZTA_148642021","SH5 Tirau to Tarukenga Marae Rd","Waikato","2029-10-01",-562.069255989277,33.7442443748485
+"NZTA_148652021","SH51 Napier to Hastings","Hawke's Bay","2025-04-01",NA,NA
+"NZTA_148672021","SH2 Remutaka","Wellington","2026-10-01",-3324.33405602361,23.2002537820185
+"NZTA_148732021","SH3/3A New Plymouth to Hawera","Taranaki","2028-04-01",NA,NA
+"NZTA_148742021","SH1 Templeton to Selwyn River","Canterbury","2028-04-01",-485.260352481005,62.25580463577
+"NZTA_148752021","SH2 Hutt Valley","Wellington","2027-10-01",-3402.89902304696,21.3455556607623
+"NZTA_148762021","SH71 Rangiora to SH1","Canterbury","2027-04-01",-395.959605845218,63.7870492621673
+"NZTA_148782021","SH6 Hardware Ln to McDowell Dr","Otago","2025-10-01",-1363.20199644155,59.794859906087
+"NZTA_148802021","SH1 Timaru to St Andrews","Canterbury","2026-04-01",-327.408067056429,64.9625061240199
+"NZTA_148832021","SH60 Takaka Hill Resilience Improvements","Tasman","2029-04-01",NA,NA
+"NZTA_148902021","SH73 West Melton to Yaldhurst","Canterbury","2028-01-01",-361.924215932947,64.370655893398
+"NZTA_148932021","SH23 and SH39 IS","Waikato","2026-10-01",-376.36377210689,38.2677065152835
+"NZTA_148952021","SH3 and SH4 IS","Waikato","2026-10-01",-366.473275757763,38.5086217798738
+"NZTA_148972021","SH3 and Raynes Rd IS","Waikato","2027-04-01",-437.932517000312,36.767999125189
+"NZTA_148992021","SH3 Whanganui to Bulls","Manawatū - Whanganui","2030-07-01",-657.643657156149,7.84721273476962
+"NZTA_149002021","SH6 SH69 to Charleston","West Coast","2027-04-01",-338.897044223665,0
+"NZTA_149132021","RoNS SH1 Cambridge to Piarere","Bay of Plenty","2024-10-01",4.85052844380477,55.0250895873694
+"NZTA_149142021","SH2 Hewletts Road Sub area Access","Bay of Plenty","2026-01-01",-301.516634205677,48.849345791723
+"NZTA_149162021","EOL SH6 Coal Creek Bridge","West Coast","2024-10-01",97.2232999765128,100
+"NZTA_149202021","SH6 Cromwell to Frankton Resilience","Otago","2027-04-01",-1457.88204980662,49.5930466689562
+"NZTA_149232021","SH6 Frankton to Kingston Resilience","Otago","2027-07-01",-1317.43756420448,64.7259955993223
+"NZTA_149242021","SH6 OTA Haast to Hawea RESIL IMPR","Otago","2027-01-01",-1278.24080023488,68.9494624363742
+"NZTA_149262021","SH94 Milford Road to Te Anau Downs","Southland","2028-10-01",NA,NA
+"NZTA_149272021","North Western Bus Improvements(NWBI)(ST)","Auckland","2024-10-01",-183.471794702116,46.2633888625541
+"NZTA_149302021","RoNS Petone to Grenada Link Road and CVL","Bay of Plenty","2024-10-01",4.85052844380477,55.0250895873694
+"NZTA_149322021","SH6 WTCT Haast to Hawea RESIL IMPR","West Coast","2027-04-01",-301.757462885226,8.51590205142813
+"NZTA_149392021","SH29 Tauriko  Cambridge Early works","Bay of Plenty","2027-07-01",-370.35771742986,47.4616484649905
+"NZTA_149582021","RoNS Takitimu North Link Stage 1","Canterbury","2024-10-01",30.2356998530808,71.0950427138673
+"NZTA_149692021","RoNS Otaki to North of Levin","Waikato","2024-10-01",20.4704927199794,47.9338980323234
+"NZTA_149742021","EOL SH25 Ramarama Stream Bridge","Waikato","2024-10-01",20.4704927199794,47.9338980323234
+"NZTA_150642013","Wgtn RoNS (5) - Transmission Gully","Wellington","2024-10-01",-1227.68256287618,72.6963044086767
+"NZTA_151872013","SH6 Rai Saddle Second Curve Realignment","Nelson","2024-04-01",-619.306963949574,0
+"NZTA_152292013","SH10 Waipapa Corridor Improvements","Northland","2024-04-01",-480.158325445489,56.3955681338042
+"NZTA_152462013","Prebensen Hyderabad Intersection upgrade","Hawke's Bay","2027-10-01",NA,NA
+"NZTA_154652013","Manawatu River Bridge SH3 Ashhurst Cycle","Manawatū - Whanganui","2028-10-01",-617.508924768842,8.94411300450727
+"NZTA_155112022","SH22 (Drury) Corridor Upgrade","Auckland","2030-01-01",-473.251876647782,40.4531843171084
+"NZTA_155122022","RoRS Waihoehoe Road (Drury) Upgrade","Auckland","2027-07-01",-251.772626030893,44.8939303477395
+"NZTA_155622012","CHCH Southern Motorway (Stage 2)","Canterbury","2024-10-01",423.272189142707,77.8344601865719
+"NZTA_155702022","ANO TIBC Projects","Auckland","2026-07-01",-441.762227113604,41.0845641677507
+"NZTA_155712022","ANO SH16 The Strand Upgrades WandC","Auckland","2025-04-01",-345.191656798056,43.0208420610978
+"NZTA_155722022","ANO SH1 NB Silverdale Bus Priority","Auckland","2025-04-01",-345.191656798056,43.0208420610978
+"NZTA_158202022","SH35 Resilience Improvements","Gisborne","2024-04-01",-3758.19855686496,85.6403799142676
+"NZTA_158212022","SH6 Dallows Bluff andothers rockfall prvnt","Tasman","2026-07-01",NA,NA
+"NZTA_159382013","SH3/21 Intersection Improvement","Waikato","2026-10-01",-697.218560158401,30.4522427175234
+"NZTA_159722023","ANO SH1 NB Princes Street On Ramp","Auckland","2024-10-01",-180.286437077405,46.3272565349824
+"NZTA_159732023","ANO SH1 Bombay Interchange Improvements","Auckland","2024-04-01",-155.771044042906,46.8187998014694
+"NZTA_159742023","ANO SH16 Royal Road Active Improvements","Auckland","2025-01-01",-248.258440931375,44.9643911402883
+"NZTA_159752023","ANO SH1 SB Mt Wellington On Ramp","Auckland","2024-10-01",-300.186659735437,43.9232099420967
+"NZTA_159762023","ANO SH16 Te Atatu Interchange EB On Ramp","Auckland","2025-04-01",-257.992085074352,44.7692277492659
+"NZTA_159772023","ANO Wellesley Street Connection","Auckland","2025-04-01",-257.992085074352,44.7692277492659
+"NZTA_161312023","Weigh Right Albany","Auckland","2025-04-01",-199.622190665298,45.9395670753354
+"NZTA_161572013","RoNS Takitimu North Link Stage 2","Auckland","2027-04-01",-861.38273669322,32.6710080125045
+"NZTA_161862013","Whirokino Trestle Bridge Replacement","Manawatū - Whanganui","2024-07-01",-425.057365794302,14.2039005848368
+"NZTA_162002013","SH26 Kirikiri Stream Bridge Replacement","Waikato","2031-07-01",-1108.00000925057,20.4463220838695
+"NZTA_162102023","SH6 Invercargill to Winton","Southland","2028-01-01",NA,NA
+"NZTA_162112023","SH60 Ruby Bay Bypass","Tasman","2025-07-01",NA,NA
+"NZTA_162122023","SH60 Redwood to Mapua","Tasman","2027-01-01",NA,NA
+"NZTA_162242023","SH1 Schiska Rd Underslip","Northland","2025-10-01",-93.5007681171272,85.5662195621227
+"NZTA_162252023","NTLD Subsidence Strategy Implementation","Northland","2029-04-01",-381.358101039182,63.8493650467881
+"NZTA_162262023","SH60 Birds Hill Overslip","Tasman","2024-10-01",NA,NA
+"NZTA_162282023","SH1 Tuamarina to Picton  Flooding","Marlborough","2024-10-01",-179.867643836601,48.9227066216133
+"NZTA_162302023","SH1 Weld Pass long term detour route","Marlborough","2024-10-01",-179.867643836601,48.9227066216133
+"NZTA_162312023","SH1 Tawa to Johnsonville Surface Floodin","Wellington","2024-10-01",-2937.39028754587,32.3349089294477
+"NZTA_162702013","RONS Warkworth to Wellsford","Bay of Plenty","2027-01-01",-755.021043197547,39.707612010893
+"NZTA_162712023","SH1 Utiku Landslide","Manawatū - Whanganui","2024-04-01",109.127882246566,28.8034234372981
+"NZTA_163172013","RoNS Otaki to North of Levin","Manawatū - Whanganui","2032-04-01",-944.767101087447,0
+"NZTA_163432023","RONS Alternative to Brynderwyns","Northland","2034-04-01",-802.695208749105,32.0623802332871
+"NZTA_164102023","RoNS SH29 Tauriko Stage 2 Omanawa Bridge","Bay of Plenty","2034-04-01",-513.777707021036,44.57059087504
+"NZTA_164172013","Western Ring Route","Auckland","2030-07-01",-1359.07047203818,22.6921732951618
+"NZTA_164242013","Puhoi to Wellsford RoNS Development","Auckland","2035-04-01",-1257.19926839035,24.7347309703149
+"NZTA_164252013","SH1 Puhoi to Warkworth","Auckland","2026-10-01",-1018.18565727391,29.527047821107
+"NZTA_164262013","RONS Warkworth to Wellsford","Auckland","2036-04-01",-1618.80163706072,17.4844613452051
+"NZTA_164502013","SH20A  to Airport","Auckland","2024-04-01",-330.080586005849,43.323824970116
+"NZTA_164892013","Wgtn RoNS (6) - Mackays - Peka Peka Expr","Wellington","2025-04-01",-701.436163139774,85.119503270567
+"NZTA_164902013","Wgtn RoNS (7) - Peka Peka to Otaki Expr","Wellington","2027-04-01",-563.026886486277,88.3869573929289
+"NZTA_165312023","SH14 Whangarei to Maunu Corridor IBC","Northland","2024-10-01",-9.36681572099059,91.913547196405
+"NZTA_165362013","Beaumont Bridge Replacement","Otago","2025-04-01",-1546.94672070543,39.996293115885
+"NZTA_165802023","RoNS SH29 Tauriko Stage 2 Omanawa Bridge","Manawatū - Whanganui","2024-10-01",89.086926104523,28.2556951010065
+"NZTA_165812013","RoNS Petone to Grenada Link Road and CVL","Wellington","2034-04-01",-4307.09623841215,0
+"NZTA_165812023","EOL SH25 Boundary Creek Bridge","Waikato","2024-10-01",20.4704927199794,47.9338980323234
+"NZTA_165822023","RONS Alternative to Brynderwyns","Taranaki","2024-10-01",NA,NA
+"NZTA_165832023","RoNS SH1 Belfast to Pegasus & Woodend BP","Gisborne","2024-10-01",-3690.3284436919,90.8570198422154
+"NZTA_165842023","SH1 Second Mt Victoria Tunnel and Basin Reserve Upgrade","Hawke's Bay","2024-10-01",NA,NA
+"NZTA_165912023","ANO SH16 SH1 Grafton Link","Auckland","2024-07-01",-164.091915746822,46.6519630531617
+"NZTA_166012013","Waikato SEDF","Waikato","2025-04-01",-547.944935505076,34.0882882212333
+"NZTA_166112023","ANO SH1 Onewa Bus Improvements","Auckland","2024-10-01",-154.269855351567,46.8488992247956
+"NZTA_167052013","SH58 Safe Systems","Wellington","2024-10-01",-3293.77934549635,23.9215646455946
+"NZTA_167512024","NWBI SH16 Westgate and Brigham Stations","Auckland","2026-07-01",-61.2005183646725,48.7149760136905
+"NZTA_169192013","SH1 Piarere to Tokoroa Corridor Safety","Waikato","2033-04-01",-945.876884372815,24.395359032816
+"NZTA_171352013","RoRS SH2 Melling Efficiency & Safety Imp","Wellington","2029-10-01",-664.662091818445,85.987635767464
+"NZTA_171902013","(nc) SH1 Corridor Imps - Whangarei","Northland","2024-07-01",-688.103832429054,40.7075108714159
+"NeCC3645","WC141 Arrow Street Underslip","Nelson","2025-04-01",205.084799575862,91.828275540426
+"NeCC3646","WC141 Konini Street Underslip","Nelson","2025-04-01",205.084799575862,91.828275540426
+"NeCC3647","WC141 Iwa Road overslip","Nelson","2025-04-01",205.084799575862,91.828275540426
+"NeCC500173551539","WC 214 Sealed Road Pavement Rehabilitation","Nelson","2027-04-01",115.895993174422,81.8936126147205
+"NeCC500173551540","WC 212 Sealed Road Resurfacing","Nelson","2028-04-01",-197.960539623477,46.9334086812432
+"NeCC500173553621","WC141 Todd Valley Road Flood Repairs","Nelson","2025-04-01",182.091995021193,89.2671272059689
+"NeCC500173553622","WC141 Devenish Place Flood Repairs","Nelson","2025-04-01",28.7095887782493,72.1819954922579
+"NeCC500173553626","WC141 Maori Road Flood Repair","Nelson","2025-04-01",182.091995021193,89.2671272059689
+"NeCC500173553627","WC141 Ross Road Flood Repairs","Nelson","2025-04-01",182.091995021193,89.2671272059689
+"NeCC500173553631","WC141 Maitai Valley Road Flood Repairs","Nelson","2024-10-01",231.47635431793,94.7680076775243
+"NeCC500173553633","WC141 Flood Recovery - Unspecified","Nelson","2027-04-01",-119.190647257555,55.7075179100096
+"NeCC500173553635","WC141 slip repair 5 Maitai Road","Nelson","2024-07-01",254.452327883937,97.3272812229152
+"NeCC500173553636","WC141 Cable Bay Road slip repairs","Nelson","2024-04-01",249.433337388012,96.768220273272
+"NeCC500173553645","WC141 Arrow Street Retaining Wall Slip Protection","Nelson","2025-04-01",182.091995021193,89.2671272059689
+"NeCC500173553648","WC141 Glen Road flood repairs","Nelson","2024-04-01",31.0636716488485,72.444214718663
+"NeCC500173652980","WC216 Trafalgar Centre Footbridge","Nelson","2024-04-01",278.446760242394,100
+"NeCC500173703078","WC 222 Traffic Services Renewal - Lighting","Nelson","2027-07-01",-133.104237273637,54.1576953204564
+"NeCC500173751494","WC225 Renewals: Footpaths","Nelson","2024-04-01",118.057336410182,82.1343627422351
+"NeCC500173751494.1","WC225 Renewals: Footpaths","Nelson","2027-01-01",24.2762761374329,71.6881726852507
+"NeCC500173903523","WC341 School speed sign upgrades","Nelson","2025-04-01",69.2713951931713,76.7001395357627
+"NeCC500175153511","WC341Z Speed Limit changes speed signs","Nelson","2025-04-01",69.2713951931713,76.7001395357627
+"NeCC500176551375","WC 341 Marsden Valley Ridgeway Upgrade","Nelson","2030-01-01",-1.4442905442306,68.8231813197385
+"NeCC500176553172","WC 324 Polstead Main Road Stoke Intersection Upgrade","Nelson","2032-01-01",-8.1592813377369,68.0752043843546
+"NeCC500178903225","WC 452 Nile Street cycle facilities","Nelson","2028-01-01",22.3147413947435,71.4696790505453
+"NeCC500179552934","WC 324 Quarantine/Nayland intersection upgrades","Nelson","2036-04-01",-64.1720504806919,61.8359911532015
+"NeCC500179553009","WC 341Z Toi Toi/Vanguard intersection upgrade","Nelson","2027-04-01",135.267909521315,84.0514333872635
+"NeCC500179553062","WC 341 Elm Street Intersection safety improvements","Nelson","2034-01-01",83.5063311206098,78.2857565645587
+"NeCC500179553211","Waimea Road priority bus lanes - detailed business case","Nelson","2027-01-01",-8.08289763714214,68.0837126977747
+"NeCC500179553227","WC 341L Waimea Road Franklyn Street intersection improvement","Nelson","2027-04-01",135.267909521315,84.0514333872635
+"NeCC500179553458","WC341L Selwyn Place Pedestrian Crossings","Nelson","2028-01-01",86.8129870143938,78.6540820646016
+"NeCC500179553512","School speed reduction sites","Nelson","2026-04-01",-104.997561743984,57.2884732579081
+"NeCC500179553518","WC341Z St Vincent Street Toi Toi Street raised roundabout","Nelson","2024-07-01",254.452327883937,97.3272812229152
+"NeCC500179553564","WC452 SFP Hospital Connection","Nelson","2024-04-01",249.433337388012,96.768220273272
+"NeCC500179753581","WC341 W Stoke Youth Park ped refuge","Nelson","2025-04-01",226.534138430011,94.2174985841348
+"NeCC500179753582","WC341 W Andrew Street crossing","Nelson","2026-04-01",148.226743733178,85.4949065651137
+"NeCC500179753675","WC341W - Maori Road raised crossing","Nelson","2026-04-01",226.711414064434,94.237245161581
+"NeCC500179803212","WC 341 Cross Town Links Brook to Central Programme","Nelson","2030-04-01",-24.8379562931778,66.2173814084095
+"NeCC500179803233","WC 452 Atawhai Shared path extension to Todds Valley","Nelson","2030-01-01",-1.4442905442306,68.8231813197385
+"NeCC500179803349","WC341W St Vincent St cycleway crash reduction","Nelson","2026-04-01",51.3693243389523,74.7060435635814
+"NeCC50027150","Renewals: Street/Garden Furniture","Nelson","2024-10-01",27.4154878958549,72.0378467299056
+"NeCC500273653039","Structures replacement/component replacement","Nelson","2024-07-01",230.543998852668,94.6641534199324
+"NeCC500276553335","Maitai Bayview Growth programme","Nelson","2028-01-01",22.3147413947435,71.4696790505453
+"NeCC500276553705","IAF Active Linear Corridor","Nelson","2027-01-01",118.922973795981,82.2307853314679
+"NeCC500279802946","Railway Reserve Lighting","Nelson","2024-04-01",176.058742878515,88.59508854101
+"NeCC551073551108","Renewal: CBD aesthetic elements","Nelson","2024-04-01",73.4180651593891,77.1620334666344
+"NeCC551073553217","CBD Carpark Resurfacing","Nelson","2030-01-01",-160.316695195452,51.1265234981053
+"NeCC551079552994","Strawbridge Sq Layout & access improvement","Nelson","2026-04-01",226.711414064434,94.237245161581
+"NeCC556075902997","WC 531 CBD interchange - Millers Acre","Nelson","2026-01-01",-20.4155706314068,66.7099870688039
+"NeCC556075902997.1","WC 531 CBD interchange - Millers Acre - Design package/s","Nelson","2025-01-01",62.2769667576868,75.921036286508
+"NeCC556079902335.1","WC532 PT Minor Improvements","Nelson","2027-04-01",-168.267428996065,50.240898232917
+"NeCC640576153328","Cambria/Milton/Nile St and Weka St PS Upgrades and Renewals","Nelson","2030-04-01",-244.852428301597,41.7101623259774
+"NeCC651073121917","St Vincent Street Culvert Replacement","Nelson","2026-04-01",70.8777231084989,76.8790669934876
+"IP006390","HV/LV Flight Line Network (FAMC)","Auckland","2025-01-01",-279.370174325186,44.340588656806
+"IP011371","Tauranga Bay Village road raising","Northland","2028-01-01",19.2390782594572,94.0716650096576
+"IP011378","Whangarei Blue-Green network","Northland","2027-01-01",-11.1585607724285,91.7783723644295
+"IP011010","Condition Assessments - Structures and MEICA","Bay of Plenty","2030-07-01",-441.366896548609,46.0302466999185
+"IP011050","Ōpōtiki Town - RRC bailer - tin and can","Bay of Plenty","2029-07-01",5.93116870694538,55.046873114503
+"IP011051","Ōpōtiki Town - RRC bailer / compactor","Bay of Plenty","2028-07-01",19.8162170300069,55.3267676707336
+"IP011052","Ōpōtiki Town - RRC bays (existing)","Bay of Plenty","2036-07-01",-978.773448570615,35.1972150176465
+"IP011053","Ōpōtiki Town - RRC fencing replacement","Bay of Plenty","2044-07-01",-1738.2877965531,19.8869383493085
+"IP011054","Ōpōtiki Town - RRC hardstand (pavement for existing bays)","Bay of Plenty","2033-07-01",-693.890585672325,40.9398786824303
+"IP011055","Ōpōtiki Town - RRC hoist (glass)","Bay of Plenty","2028-07-01",-137.438918327799,52.1568214593943
+"IP011056","Ōpōtiki Town - RRC improved workstation flow","Bay of Plenty","2027-07-01",-139.554247514419,52.1141806914117
+"IP011057","Ōpōtiki Town - RRC renewals","Bay of Plenty","2054-07-01",-2692.48264403794,0.652295647295651
+"IP011058","Ōpōtiki Town - RRC security system","Bay of Plenty","2028-07-01",19.8162170300069,55.3267676707336
+"IP011059","Ōpōtiki Town - RRC upgrades for resource consent compliance","Bay of Plenty","2028-07-01",-137.438918327799,52.1568214593943
+"IP011063","Ōpōtiki Town - RRC conveyor/sorter","Bay of Plenty","2034-07-01",5.93116870694538,55.046873114503
+"IP011064","Ōpōtiki Town - RRC drainage renewals","Bay of Plenty","2033-07-01",-184.077383098393,51.2166841191043
+"IP011067","Ōpōtiki Town - RRC hardstand (pavement for entrance and turning areas)","Bay of Plenty","2031-07-01",-183.81745347896,51.2219237757328
+"IP011070","Ōpōtiki Town - RRC layout upgrade (existing greenwaste gravel pavement)","Bay of Plenty","2028-07-01",-219.259100588129,50.5074916859844
+"IP011072","Ōpōtiki Town - RRC weighbridge renewal","Bay of Plenty","2050-07-01",-88.9431423860073,53.1343984451179
+"IP011074","Te Kaha - RRC hardstand (pavement for existing bays)","Bay of Plenty","2036-07-01",-978.773448570615,35.1972150176465
+"IP011075","Te Kaha - RRC improved workstation flow","Bay of Plenty","2027-07-01",-57.3151803909611,53.7719543384149
+"IP011076","Te Kaha - RRC Loader","Bay of Plenty","2028-07-01",19.8162170300069,55.3267676707336
+"IP011077","Te Kaha - RRC renewals","Bay of Plenty","2054-07-01",-2687.55076672149,0.751712342200321
+"IP011078","Te Kaha - RRC upgrades for resource consent compliance","Bay of Plenty","2028-07-01",-137.438918327799,52.1568214593943
+"IP011079","Te Kaha - RRC additional hardstand for bays","Bay of Plenty","2033-07-01",5.93116870694538,55.046873114503
+"IP011080","Te Kaha - RRC bays (additional)","Bay of Plenty","2033-07-01",5.93116870694538,55.046873114503
+"IP011081","Te Kaha - RRC bays (existing)","Bay of Plenty","2027-07-01",-139.554247514419,52.1141806914117
+"IP011085","Te Kaha - RRC hardstand (pavement for entrance and turning areas)","Bay of Plenty","2034-07-01",-88.9431423860073,53.1343984451179
+"IP011087","Waihau Bay - RRC fencing replacement","Bay of Plenty","2027-07-01",-139.554247514419,52.1141806914117
+"IP011088","Waihau Bay - RRC improved workstation flow","Bay of Plenty","2028-07-01",19.8162170300069,55.3267676707336
+"IP011089","Waihau Bay - RRC renewals","Bay of Plenty","2054-07-01",-2687.55076672149,0.751712342200321
+"IP011090","Waihau Bay - RRC upgrades for resource consent compliance","Bay of Plenty","2028-07-01",-137.438918327799,52.1568214593943
+"IP011092","Waihau Bay - RRC bays (additional)","Bay of Plenty","2033-07-01",5.93116870694538,55.046873114503
+"IP011093","Waihau Bay - RRC bays (existing)","Bay of Plenty","2030-07-01",-409.007722774034,46.6825423472142
+"IP011096","Waihau Bay - RRC hardstand (pavement for entrance and turning areas)","Bay of Plenty","2030-07-01",5.93116870694538,55.046873114503
+"IP011097","Waihau Bay - RRC hardstand (pavement for existing bays)","Bay of Plenty","2031-07-01",-503.882033866987,44.770067677829
+"IP011108","Ōpōtiki Town - Resource Consent","Bay of Plenty","2026-07-01",-60.5108941984053,53.7075351965319
+"IP011110","Ōpōtiki Town - RRC Consequential plant OPEX","Bay of Plenty","2054-07-01",-1513.09752725803,24.4263197778271
+"IP011115","Te Kaha - Resource Consent","Bay of Plenty","2026-07-01",-60.5108941984053,53.7075351965319
+"IP011116","Te Kaha - RRC Consequential plant OPEX","Bay of Plenty","2054-07-01",-1987.72901234222,14.858706774273
+"IP011119","Waihau Bay - Resource Consent","Bay of Plenty","2026-07-01",-60.5108941984053,53.7075351965319
+"IP011121","Waihau Bay - RRC Consequential plant OPEX","Bay of Plenty","2054-07-01",-1987.72901234222,14.858706774273
+"IP011124","Harbour Access Road","Bay of Plenty","2024-07-01",-20.1477930223804,54.5211738695058
+"IP011125","CBD Kerb & Channel","Bay of Plenty","2025-04-01",4.45071457869757,55.0170301466138
+"IP011126","Council site access roads","Bay of Plenty","2025-04-01",4.45071457869757,55.0170301466138
+"IP011127","Seal extensions","Bay of Plenty","2026-04-01",4.68014685797801,55.0216550384039
+"IP011130","Unsealed Road Metalling","Bay of Plenty","2025-04-01",-0.329692985165774,54.9206667762778
+"IP011131","Sealed Road Resurfacing","Bay of Plenty","2026-07-01",-216.821177806765,50.5566352898911
+"IP011133","Sealed Road Pavement Rehabilitation","Bay of Plenty","2025-04-01",-0.329692985165774,54.9206667762778
+"IP011134","Structures Components Replacement","Bay of Plenty","2025-04-01",-0.481162737748416,54.9176134517091
+"IP011135","Traffic Services Renewal","Bay of Plenty","2025-04-01",-0.481162737748416,54.9176134517091
+"IP011136","Minor Improvements - Low Cost Low Risk","Bay of Plenty","2025-04-01",92.9003554611097,56.7999964285834
+"IP011137","Structures Renewals","Bay of Plenty","2025-04-01",-0.481162737748416,54.9176134517091
+"IP011138","Environmental Renewals","Bay of Plenty","2030-07-01",68.446306025323,56.3070521365925
+"IP011139","Transport Hukutaia Growth - Intersection Upgrade / Hukutaia Rd and SH2","Bay of Plenty","2034-07-01",96.0250722360347,56.8629844135521
+"IP011140","Transport Hukutaia Growth - Minor Road Safety Improvements","Bay of Plenty","2026-07-01",95.873602483452,56.8599310889835
+"IP011141","Transport Hukutaia Growth - Provision of pedestrian, cyclist and mobility improvements","Bay of Plenty","2029-07-01",95.873602483452,56.8599310889835
+"IP011142","Emergency Events - Minor","Bay of Plenty","2025-04-01",31.8780110368266,55.5699090990048
+"IP011144","Asset Management Planning","Bay of Plenty","2054-07-01",-2692.48264403794,0.652295647295651
+"IP011145","Sealed pavement maintenance","Bay of Plenty","2054-07-01",-2631.46029961366,1.88238297687422
+"IP011146","Emergency Events - Minor events","Bay of Plenty","2054-07-01",-2724.69034805993,0.00305332456863456
+"IP011147","Unsealed pavement maintenance","Bay of Plenty","2054-07-01",-2724.69034805993,0.00305332456863456
+"IP011148","Structures maintenance","Bay of Plenty","2054-07-01",-2724.84181781251,0
+"IP011149","Routine drainage maintenance","Bay of Plenty","2054-07-01",-2724.69034805993,0.00305332456863456
+"IP011152","Traffic services maintenance","Bay of Plenty","2054-07-01",-2724.69034805993,0.00305332456863456
+"IP011153","Cycle path maintenance","Bay of Plenty","2054-07-01",-2724.84181781251,0
+"IP011154","Footpath maintenance","Bay of Plenty","2054-07-01",-2724.84181781251,0
+"IP011155","Network and asset management","Bay of Plenty","2054-07-01",-2631.46029961366,1.88238297687422
+"IP012307","Lower Clutha Drain 222 Bridge Improvements (Lower Clutha Flood Protection and Drainage Scheme)","Otago","2027-04-01",-1119.04463849669,86.1029118948242
+"IP012316","Bridge Renewals (West Taieri Drainage Scheme)","Otago","2026-04-01",-1040.27952670892,94.5898838757354
+"IP012322","Bridge Repairs (Tokomairiro Drainage Scheme)","Otago","2027-04-01",-1086.68546472212,89.5896256811291
+"IP000284","Streets for People Project - Stage 3&4","Manawatū - Whanganui","2027-04-01",9.65532271754503,26.0847936897284
+"IP000337","Urban Cycle Infrastructure Network Improvements","Manawatū - Whanganui","2025-04-01",-158.813786477951,21.4804572378067
+"IP004136","Roberts/ Railway Road Safety Realignment","Manawatū - Whanganui","2024-04-01",-50.7820966201097,24.4330118631057
+"IP006661","City-wide - Stormwater Network Renewal Works","Manawatū - Whanganui","2025-04-01",-153.881909161505,21.6152476608875
+"IP006682","Regional Shared Path Network Improvements","Manawatū - Whanganui","2025-04-01",-191.172960252526,20.5960664787183
+"IP006685","Longburn Rongotea Road/No. 1 Line - Intersection Safety Upgrade","Manawatū - Whanganui","2025-04-01",-186.24108293608,20.7308569017992
+"IP006686","PNITI – Intersection & bridge improvements","Manawatū - Whanganui","2025-04-01",-186.24108293608,20.7308569017992
+"IP009587","Transport Growth - Ashhurst - Wyndham Street","Manawatū - Whanganui","2027-04-01",140.154372077725,29.6513913454029
+"IP009588","Cook Street Roundabout Upgrade","Manawatū - Whanganui","2024-04-01",104.19600493012,28.6686330142172
+"IP010255","Milson Line Overbridge Improvement","Manawatū - Whanganui","2028-04-01",39.5432495258998,26.9016441588337
+"IP010256","Tennent Drive Improvements - Food HQ & Massey","Manawatū - Whanganui","2025-04-01",116.265878450127,28.9985080808311
+"IP010257","Kelvin Grove Road - Safety Improvements","Manawatū - Whanganui","2031-04-01",-273.662195652264,18.3415986106569
+"IP010258","Urban Growth - Kakatangiata - Transport","Manawatū - Whanganui","2034-04-01",-432.955836329704,13.9880318361134
+"IP010259","Pioneer Highway - Improvements","Manawatū - Whanganui","2030-04-01",-146.580180537319,21.8148071850456
+"IP010260","Stoney Creek Road Upgrade","Manawatū - Whanganui","2028-04-01",-152.34783431341,21.6571746157862
+"IP010261","Enabling PNITI, Roberts Line / Kairanga Bunnythorpe intersection improvements","Manawatū - Whanganui","2029-04-01",-4.30768237228591,25.7031784866773
+"IP010262","Transit Hub Redevelopment","Manawatū - Whanganui","2028-04-01",132.924767724758,29.4538030099846
+"IP010263","Rangitikei St / Featherston St - Intersection Improvements","Manawatū - Whanganui","2030-04-01",-224.07795504847,19.6967581858642
+"IP008139","Eastern Porirua Regeneration project","Wellington","2031-04-01",-3455.02614737405,20.1149807210794
+"IP008140","Access Kenepuru","Wellington","2026-04-01",-3169.44483223453,26.8567531512483
+"IP008141","Porirua CBD to Titahi Bay shared path","Wellington","2024-07-01",-3153.6145749799,27.2304610455115
+"IP008142","Low Cost Low Risk improvements 2021 - 2023 - PCC  Road to Zero - Safety","Wellington","2025-04-01",-3093.21398829798,28.6563491847942
+"IP008143","Low Cost Low Risk improvements 2021-2023-PCC Walking and cycling improvements-Better travel options","Wellington","2025-04-01",-3093.21398829798,28.6563491847942
+"IP008144","Low Cost Low Risk improvements 2021 - 2023 - PCC  Local road improvements - Better travel options","Wellington","2025-04-01",-2999.9839398517,30.8572486728133
+"IP000692","Channel Deepening","Auckland","2026-04-01",-173.958399051589,46.4541361847309
+"IP011872","Stormwater - New Bridge - Vaughan Road","Bay of Plenty","2025-04-01",-0.481162737748416,54.9176134517091
+"IP012601","Land Transport - New Footpaths - Rotorua Urban Area","Bay of Plenty","2027-04-01",-119.791068727661,52.5125664965974
+"IP012602","Land Transport - New Shared Paths - Rotorua Urban Area","Bay of Plenty","2027-04-01",-124.722946044107,52.4131498016927
+"IP012603","Land Transport - New Pedestrian Lighting - Rotorua Urban Area","Bay of Plenty","2027-04-01",-119.791068727661,52.5125664965974
+"IP012604","Land Transport - Pedestrian Crossing Facility Improvements - Rotorua Urban Area","Bay of Plenty","2027-04-01",-119.791068727661,52.5125664965974
+"IP012605","Land Transport - Bus Shelter Upgrades & Bus Stop Improvements - Rotorua Urban Area","Bay of Plenty","2027-04-01",-119.791068727661,52.5125664965974
+"IP012606","Land Transport - Traffic Management Interventions - Rotorua Urban Area","Bay of Plenty","2027-04-01",-119.791068727661,52.5125664965974
+"IP012607","Land Transport - Shoulder Widening - Broadlands Road, Reporoa","Waikato","2027-04-01",-104.171104451486,44.8978458159788
+"IP012608","Land Transport - Speed Management Plan - Rotorua District","Bay of Plenty","2027-04-01",-119.791068727661,52.5125664965974
+"IP012609","Land Transport - Interestion Upgrades - Fenton Street, CBD Rotorua","Bay of Plenty","2027-04-01",-124.722946044107,52.4131498016927
+"IP012610","Land Transport - Safety Measures, Shape Correction of Bend - Oturoa Road, Rotorua","Bay of Plenty","2025-04-01",36.8098883532726,55.6693257939094
+"IP012611","Land Transport - Stock Underpass Subsidy - Rotorua Rural","Bay of Plenty","2025-04-01",36.8098883532726,55.6693257939094
+"IP012612","Land Transport - Ngongotaha Village Safety Improvements - Ngongotaha Road (SH36)","Bay of Plenty","2027-04-01",-124.722946044107,52.4131498016927
+"IP012613","Land Transport - Restricted Bridges Capacity Upgrade - Rotorua Rural","Bay of Plenty","2027-04-01",-119.791068727661,52.5125664965974
+"IP012615","Land Transport - Improve Resilience of Storm Damaged Roads - Rotorua Rural","Bay of Plenty","2027-04-01",-124.722946044107,52.4131498016927
+"IP012616","Land Transport - Resilience Against Washout - Liechenstein Road, Rotoiti","Bay of Plenty","2025-04-01",36.8098883532726,55.6693257939094
+"IP012617","Land Transport - Rural Seal Extensions - Rotorua Rural","Bay of Plenty","2054-04-01",-2701.03675269155,0.479862077757807
+"IP013215","Lower Tirau Street Main Upgrade (DC Funded)","Waikato","2031-04-01",40.272851035054,48.4162489907168
+"IP013237","Parapara WWPS Upgrade","Waikato","2027-04-01",-21.8215293285601,46.9037380360781
+"IP013250","Citizen Journey - Integration and automation (Option 4)","Waikato","2026-04-01",-25.4059926637181,46.8164267523649
+"IP013256","Bridge & Boardwalks-Renewal","Waikato","2026-04-01",57.4396924725911,48.8344033483055
+"IP013258","Internal Roads Renewal","Waikato","2034-04-01",-667.671154860393,31.1719660472786
+"IP013271","Walkways-Renewal","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP013272","SH1 Traffic Island, Putaruru - Vegetation to concrete","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP013273","Domain Rd geometric and sight benching improvements - LCLR","Waikato","2027-04-01",-104.171104451486,44.8978458159788
+"IP013274","Drainage Renewals","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP013275","Implementation of South Waikato District Speed Management Plan Proposals","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP013276","Town Concept Plan - Bridge Street roading","Waikato","2030-04-01",-54.449990305316,46.1089655563247
+"IP013277","Old Taupo Road 10th km curve improvements – Low-Cost Low Risk Improvements","Waikato","2026-04-01",57.4396924725911,48.8344033483055
+"IP013278","Arapuni road corridor improvements – Low-Cost Low Risk Improvements","Waikato","2027-04-01",-21.8215293285601,46.9037380360781
+"IP013279","Old Taupo Road 14th km curve improvements – Low-Cost Low Risk Improvements","Waikato","2027-04-01",-104.171104451486,44.8978458159788
+"IP013280","Pavement Rehabilitation","Waikato","2034-04-01",-754.271744684586,29.0625265131333
+"IP013281","Renewals Footpaths","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP013282","Renewals of Traffic Services and Streetlighting Capitals","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP013283","Road formation widening","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP013284","Road Widening associated with pavement rehabilitation under Low-cost Low Risk Improvements","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP013285","Seal Widening","Waikato","2034-04-01",-749.491337120723,29.178968915258
+"IP013286","Sealed car park renewals","Waikato","2034-04-01",-754.423214437169,29.0588369737783
+"IP013287","Sealed Road Resurfacing","Waikato","2034-04-01",-754.271744684586,29.0625265131333
+"IP013288","Tirau CBD - Replace hazard paving with Asphalt Concrete","Waikato","2026-04-01",-25.4059926637181,46.8164267523649
+"IP013289","Tokoroa CBD - replace slippery paving with Asphalt Concrete","Waikato","2026-04-01",-25.4059926637181,46.8164267523649
+"IP013290","Wiltsdown Road corridor improvements","Waikato","2027-04-01",-21.8215293285601,46.9037380360781
+"IP013291","Bridge St/Leith Place roundabout Improvements","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP013292","Swanson St/Leith Place roundabout Improvements","Waikato","2026-04-01",57.4396924725911,48.8344033483055
+"IP013293","Drainage improvements associated with Pavement Rehabilitation","Waikato","2026-04-01",57.4396924725911,48.8344033483055
+"IP013300","Growth Cell 4 Access - Princes St Putaruru","Waikato","2026-04-01",-30.337869980164,46.6962948108852
+"IP013302","Rural Residential Subdivision","Waikato","2025-04-01",52.4298526294473,48.7123723754644
+"IP013309","Putāruru Transfer Station - State Highway Slip Road Improvements","Waikato","2028-04-01",-24.1413065421977,46.8472323035561
+"IP011937","Pahiatua WeighBridge","Manawatū - Whanganui","2026-04-01",135.135982798605,29.51423651151
+"IP011938","Roading - District Structures Component Replacements","Manawatū - Whanganui","2034-04-01",-626.240412749421,8.70547751471049
+"IP011939","Roading - District Bridge strengthening","Manawatū - Whanganui","2034-04-01",-626.240412749421,8.70547751471049
+"IP011940","Roading - District Pavement rehabilitation","Manawatū - Whanganui","2034-04-01",-626.088942996838,8.70961725110793
+"IP011941","Roading - District Traffic Services","Manawatū - Whanganui","2034-04-01",-626.240412749421,8.70547751471049
+"IP011942","Roading - District Drainage Renewals","Manawatū - Whanganui","2034-04-01",-626.088942996838,8.70961725110793
+"IP011943","Roading - District unsealed road metalling","Manawatū - Whanganui","2034-04-01",-626.240412749421,8.70547751471049
+"IP011944","Roading - District Emergency Reinstatement","Manawatū - Whanganui","2034-04-01",-626.088942996838,8.70961725110793
+"IP011945","Roading - Cyclone Gabrielle Recovery Works","Manawatū - Whanganui","2027-04-01",112.461338118674,28.8945282840923
+"IP011946","Roading - District sealed roads resurfacing","Manawatū - Whanganui","2034-04-01",-532.858894550563,11.2576363658614
+"IP011947","Roading - District Minor Safety Improvements","Manawatū - Whanganui","2034-04-01",-626.240412749421,8.70547751471049
+"IP011948","Roading - District carpark renewals","Manawatū - Whanganui","2034-04-01",-626.240412749421,8.70547751471049
+"IP011971","Dannevirke Rural Main Line stage 2 between No.2 Reservoir and town","Manawatū - Whanganui","2030-04-01",14.1664430792276,26.2080846361785
+"IP011976","Dannevirke Rural Main Line Stage 1 between Plant and No2 Reservoir","Manawatū - Whanganui","2028-04-01",39.6947192784825,26.9057838952311
+"TasDC46002","Unsealed Road Metalling","Tasman","2034-07-01",NA,NA
+"TasDC46004","Sealed Road Resurfacing","Tasman","2034-07-01",NA,NA
+"TasDC46006","Drainage Renewals","Tasman","2034-07-01",NA,NA
+"TasDC46008","Pavement Rehabilitation","Tasman","2034-07-01",NA,NA
+"TasDC46011","Traffic Services Renewals","Tasman","2034-07-01",NA,NA
+"TasDC46084","Lower Queen Street Widening Stage 1","Tasman","2031-07-01",NA,NA
+"TasDC66046","Richmond West Stormwater Upgrades Programme","Tasman","2034-07-01",NA,NA
+"TasDC66090","Richmond South Stormwater Upgrades Programme","Tasman","2042-07-01",NA,NA
+"TasDC66097","Capacity upgrades and extensions for intensification in Richmond","Tasman","2054-07-01",NA,NA
+"IP006734","Cameron Road Stage 1","Bay of Plenty","2024-07-01",-196.590588763845,50.9644431426767
+"IP006735","Cameron Road Stage 2","Bay of Plenty","2030-10-01",222.310576145205,59.408645346997
+"IP006736","TSP002 - Connecting Mount Maunganui (Hewletts Rd)","Bay of Plenty","2030-10-01",-570.135127510487,43.434538998865
+"IP006740","TSP042 - Safe Network Programme","Bay of Plenty","2026-10-01",-266.394514162214,49.5573368605848
+"IP006745","Opal Drive to Te Maunga Rising Main","Bay of Plenty","2038-04-01",-1135.5460515662,32.0369956850509
+"IP006750","Accessible Streets – Area B - Phase 1- Business Case","Bay of Plenty","2027-07-01",-329.056069173544,48.2942063532546
+"IP006759","Road Rehabilitation","Bay of Plenty","2024-04-01",159.576133578123,58.144045573619
+"IP006760","Road resurfacing WC212 & Pre Seal Repairs WC111","Bay of Plenty","2025-04-01",73.4991412700915,56.408907099257
+"IP010513","Papamoa East Interchange Stage 3","Bay of Plenty","2026-10-01",-195.443805950659,50.9875599701534
+"IP010514","Te Okuroa Drive Extension to Te Tumu (PEI Stage 4)","Bay of Plenty","2025-07-01",-85.6286605558403,53.2012117106827
+"IP010535","Otumoetai / Matua Coastal Pathway","Bay of Plenty","2024-10-01",-68.0424796593804,53.555713631258
+"IP010540","Kopurererua Valley Realignment Project","Bay of Plenty","2026-04-01",-343.189702986952,48.0093008151472
+"IP010566","Parks Roading Renewals","Bay of Plenty","2025-04-01",-113.150292813188,52.6464311389351
+"IP010567","TSP007 -  15th Ave to Welcome Bay (Connecting the People)","Bay of Plenty","2028-01-01",-106.988737490121,52.7706356611459
+"IP010568","Arataki Bus Facility","Bay of Plenty","2024-10-01",25.3579963322401,55.4384787589802
+"IP010569","TSP028 - Taurikura Drive Upgrade","Bay of Plenty","2028-04-01",-209.026364179262,50.7137630038471
+"IP010570","Domain Road Upgrade","Bay of Plenty","2028-07-01",-343.033096513699,48.0124576856394
+"IP010571","TSP 015 - Te Tumu Internal Multi Modal","Bay of Plenty","2024-04-01",-95.3787585038287,53.0046694102988
+"IP010572","Low Cost Low Risk (LCLR)","Bay of Plenty","2024-10-01",67.283587600378,56.2836140793385
+"IP010573","LCLR-Maranui Street Upgrades and Improvements","Bay of Plenty","2025-04-01",-87.7854200583388,53.1577357911322
+"IP010574","Maunganui Road - Tui to Hull","Bay of Plenty","2025-10-01",-365.971683473301,47.5500620591906
+"IP010576","Keenan Road Urban Growth Area Transport Infrastrcuture SSBC (Western corridor Ring Route: SH29-SH36)","Bay of Plenty","2048-04-01",-2239.04651501582,9.79265304171436
+"IP010577","Tauriko West Enabling Works","Bay of Plenty","2027-04-01",-87.0709030800857,53.1721390116248
+"IP010582","Chadwick Rd watermain to Cameron Rd link","Bay of Plenty","2029-04-01",-529.473472015717,44.2541959244665
+"IP010588","SW Upgrade Culvert under SH2","Bay of Plenty","2025-04-01",-355.387474226549,47.763418360245
+"IP010592","Mansels Access & Renewal of WW Main","Bay of Plenty","2025-07-01",-173.025761561955,51.4394625087504
+"IP010594","Ila Place - Harrisfield dr gravity main","Bay of Plenty","2029-01-01",-423.2193202639,46.3960652187085
+"IP010759","KPS-Fraser Street ( between 17th and 18th)","Bay of Plenty","2024-07-01",-50.6661702497459,53.9059849661482
+"IP010761","TC787/23 - TSP019 Active Modes & PT City Periphery","Bay of Plenty","2024-10-01",-72.8228872232438,53.4593502609219
+"IP010763","Pavement Rehab - Specific Sites","Bay of Plenty","2027-04-01",-222.602259650319,50.4401003452884
+"IP010774","Hull Road Level Crossing Upgrade","Bay of Plenty","2025-07-01",-102.078428268769,52.8696175867747
+"IP010776","Blake Park Car Parks","Bay of Plenty","2029-01-01",-370.055127238456,47.4677480726672
+"IP011798","Bethlehem Road Stage 2","Bay of Plenty","2025-01-01",-68.5559205878182,53.5453636981881
+"IP011799","Bethlehem Rd Stg 3 Upgrading","Bay of Plenty","2025-10-01",-79.2834239523318,53.3291188768657
+"IP011801","Wairakei Culvert Upgrades","Bay of Plenty","2027-04-01",-350.689117002424,47.8581277612973
+"IP012559","LCLR - Links Ave","Bay of Plenty","2024-04-01",71.792056945516,56.3744957239159
+"IP012560","TSP034 Access St Area A Mt/Bayfair/Papamoa","Bay of Plenty","2036-10-01",-1054.23542440819,33.6760538558045
+"IP012562","Traffic Services WC222 Renewals","Bay of Plenty","2025-04-01",-40.5018068699272,54.1108780217118
+"IP012563","Kerb, Channel & Sump WC213 Renewal","Bay of Plenty","2025-04-01",-40.3503371173445,54.1139313462805
+"IP012564","Traffic signals renewals","Bay of Plenty","2025-04-01",-15.3124744060635,54.6186441358569
+"IP012565","Footpath Renewals WC225 and Cycle paths","Bay of Plenty","2024-04-01",71.9435266980987,56.3775490484845
+"IP012566","Road resurfacing WC212 & Pre Seal Repairs WC111","Bay of Plenty","2025-04-01",171.488429429798,58.3841734207475
+"IP012567","Commercial Footpath Renewals","Bay of Plenty","2025-04-01",-15.1610046534809,54.6216974604256
+"IP012568","Otumoetai Railbridge Footpath Renewal","Bay of Plenty","2026-10-01",-164.529683950285,51.6107262895807
+"IP012570","Bridge Component Replacement WC215","Bay of Plenty","2025-10-01",-184.381574613192,51.2105522319792
+"IP012571","Footpath Renewals WC225 and Cycle paths","Bay of Plenty","2024-04-01",46.088345093446,55.8563607592457
+"IP012572","Waimapu8 Pa Road - Speed Calming","Bay of Plenty","2025-01-01",4.13999460368212,55.0107666589042
+"IP012573","Arterial Route Review and Implementation","Bay of Plenty","2025-10-01",-54.0113797636448,53.8385522924833
+"IP012575","Transport Buildings Renewals","Bay of Plenty","2025-04-01",-47.6716481806385,53.9663484885613
+"IP012576","Memorial Park to City Centre Pathway - Stage 2","Bay of Plenty","2027-04-01",-171.410431026086,51.4720243128567
+"IP012582","Residential & Commercial Bdg Renewals","Bay of Plenty","2025-04-01",-108.369885249324,52.7427945092711
+"IP012586","Streetlight renewals","Bay of Plenty","2025-04-01",78.0690437927946,56.5010271127312
+"IP012587","Wairakei Landscape Plan Stage 1","Bay of Plenty","2025-10-01",-79.2834239523318,53.3291188768657
+"IP012594","Ntwrk Capacity Upg Otumoetai area Plan Programme","Bay of Plenty","2030-04-01",-494.374241741914,44.9617255817601
+"IP009717","Cormandel Wharf renewal","Waikato","2029-04-01",-106.046005014864,44.8521765038065
+"IP009720","Whitianga explanade reclamation","Waikato","2030-04-01",-43.5137109974276,46.3753542723294
+"IP010738","Thames WWI Monument","Waikato","2029-04-01",99.8392193382584,49.8671819746528
+"IP010739","Whitianga Esplanade Waterfront Redevelopment Project","Waikato","2030-04-01",-75.8728847720027,45.5871411597982
+"IP010493","Port of Napier capacity increase","Hawke's Bay","2030-01-01",NA,NA
+"IP011411","Northern Network Streetlighting","Auckland","2034-04-01",-837.086550678353,33.1581560920852
+"IP011584","Tunnel - Train, Generator, Rolling Stock Replace","Auckland","2031-04-01",-37.6100776422666,49.1879736227536
+"IP011592","Tunnel - Rail Track and Anchor Replace","Auckland","2034-04-01",-832.306143114489,33.254005142752
+"IP008755","Lehmans and Oxford Road Link Main","Canterbury","2028-04-01",152.322243401633,73.1884671342318
+"IP008758","Woodend Beach Supply Main","Canterbury","2036-04-01",46.8293595335494,71.3795750741802
+"IP008759","Waikuku Township Mains","Canterbury","2034-04-01",146.895477562381,73.0954140933209
+"IP008762","Southbrook Western Supply Main","Canterbury","2036-04-01",114.276374168373,72.5360926019376
+"IP008765","East Belt Booster Main Stage 2","Canterbury","2026-04-01",159.130441683472,73.3052076703108
+"IP008769","Woodside Road Supply Main","Canterbury","2035-04-01",14.7301153784071,70.8291676366653
+"IP008770","Main Street Trunk Main Upgrade","Canterbury","2029-04-01",28.6151637014687,71.0672552947525
+"IP008777","Ayers St Water Treatment Plant to East Belt Supply Main","Canterbury","2026-04-01",154.198564367026,73.2206405090791
+"IP008782","Northwest Kaiapoi Ring Main","Canterbury","2066-04-01",19.6619926948531,70.913734797897
+"IP008784","McPhedrons Road / Kiri Kiri Road / Depot Road Upgrade","Canterbury","2046-04-01",14.7301153784071,70.8291676366653
+"IP008806","Under Channel Piping","Canterbury","2071-04-01",-4115.96033375468,0
+"IP008810","Blackett Street Piping","Canterbury","2027-04-01",79.8692198823207,71.9461113073241
+"IP008811","Todds Road SW Pond","Canterbury","2028-04-01",119.963069627058,72.6336026697827
+"IP008814","Global Consent Implemenation Works","Canterbury","2033-04-01",-351.142010289775,64.5555389439189
+"IP008815","Underchannel piping","Canterbury","2071-04-01",-4111.02845643823,0.0845671612316843
+"IP008822","Dockey Creek Diversion - Lilly Road","Canterbury","2027-04-01",74.9373425658747,71.8615441460924
+"IP008823","Three Brooks Enhancement - Middle Brook Bush to King","Canterbury","2031-04-01",19.6619926948531,70.913734797897
+"IP008824","Mansfield Park Secondary Flow Improvements","Canterbury","2027-04-01",79.8692198823207,71.9461113073241
+"IP008825","Woodend Drainage Capacity Improvements","Canterbury","2025-04-01",29.8358859879736,71.088187084373
+"IP008826","Kaikanui Diversion","Canterbury","2027-04-01",74.9373425658747,71.8615441460924
+"IP008827","Kaikanui SMA Upgrade","Canterbury","2027-04-01",74.9373425658747,71.8615441460924
+"IP008833","Rotten Row Drainage Improvements","Canterbury","2029-04-01",141.963600245935,73.0108469320892
+"IP008835","Flannigans Drain Capacity Upgrades","Canterbury","2027-04-01",79.8692198823207,71.9461113073241
+"IP008954","Oxford Rural No. 2 Water Restrictor Upgrades","Canterbury","2025-04-01",29.8358859879736,71.088187084373
+"IP008956","Stubbs Rd Booster Main Stage 1","Canterbury","2028-04-01",124.894946943504,72.7181698310144
+"IP008960","Oxford Road Trunk Main","Canterbury","2028-04-01",45.190268894108,71.351469500281
+"IP008963","North Rangiora ring main","Canterbury","2034-04-01",114.536303787806,72.5405496288718
+"IP008964","James Drive Main Upgrade","Canterbury","2045-04-01",146.895477562381,73.0954140933209
+"IP008966","Bay Road and Gammans Creek reservoir replacement","Canterbury","2035-04-01",146.895477562381,73.0954140933209
+"IP008968","Northbrook Road Booster Main","Canterbury","2026-04-01",159.130441683472,73.3052076703108
+"IP008969","East Belt Booster Main Stage 1","Canterbury","2026-04-01",159.130441683472,73.3052076703108
+"IP008976","Rangiora Woodend Road Booster Main Stage 2","Canterbury","2034-04-01",19.6619926948531,70.913734797897
+"IP008977","Chinnerys Road Main Upgrade","Canterbury","2047-04-01",19.6619926948531,70.913734797897
+"IP008980","Main North Road Main Upgrade 2","Canterbury","2045-04-01",19.4020630754204,70.9092777709628
+"IP008983","Park Avenue Main Upgrade","Canterbury","2045-04-01",114.536303787806,72.5405496288718
+"IP008984","Bay Road Supply Main Upgrade","Canterbury","2046-04-01",19.6619926948531,70.913734797897
+"IP008985","Commerical Road Main Upgrade","Canterbury","2036-04-01",114.276374168373,72.5360926019376
+"IP008988","Starvation Hill Upgrade","Canterbury","2030-04-01",114.536303787806,72.5405496288718
+"IP008989","Warren / Harewood Road main upgrade","Canterbury","2056-04-01",19.4020630754204,70.9092777709628
+"IP008990","Starvation Hill Road Booster Main","Canterbury","2043-04-01",114.536303787806,72.5405496288718
+"IP008991","Stubbs Road Booster Main Stage 2","Canterbury","2039-04-01",114.536303787806,72.5405496288718
+"IP008992","Two Chain Road Extension","Canterbury","2036-04-01",114.276374168373,72.5360926019376
+"IP008993","No 10 Road Northern Link Main","Canterbury","2033-04-01",114.536303787806,72.5405496288718
+"IP008995","Ashworths Road Main","Canterbury","2048-04-01",114.276374168373,72.5360926019376
+"IP008997","Harmans Gorge Road Upgrade 1","Canterbury","2031-04-01",19.6619926948531,70.913734797897
+"IP009000","South Eyre Road Ring Main","Canterbury","2040-04-01",19.4020630754204,70.9092777709628
+"IP009001","West Eyreton Transfer Pumps Upgrade","Canterbury","2046-04-01",114.536303787806,72.5405496288718
+"IP009005","Davis / Terrace Road Trunk Main","Canterbury","2046-04-01",114.536303787806,72.5405496288718
+"IP009015","Johns Road East Supply Main","Canterbury","2026-04-01",159.130441683472,73.3052076703108
+"IP009016","Johns Road West Supply Main 2","Canterbury","2056-04-01",146.635547942948,73.0909570663867
+"IP009017","Oxford Road West Upgrde","Canterbury","2056-04-01",146.635547942948,73.0909570663867
+"IP009018","Welsford Street Upgrade","Canterbury","2037-04-01",19.4020630754204,70.9092777709628
+"IP009023","Harewood Road Main Upgrade","Canterbury","2046-04-01",19.6619926948531,70.913734797897
+"IP009024","Wilsons Road Main Upgrade","Canterbury","2040-04-01",51.7612368499954,71.4641422354119
+"IP009026","Woodstock Road Main Upgrade","Canterbury","2056-04-01",114.276374168373,72.5360926019376
+"IP009028","Ashley Gorge Road Trunk Main Upgrade 2","Canterbury","2056-04-01",146.635547942948,73.0909570663867
+"IP009029","McJarrows Road Main Upgrade","Canterbury","2069-04-01",114.536303787806,72.5405496288718
+"IP009030","Mandeville Road Extension","Canterbury","2035-04-01",114.536303787806,72.5405496288718
+"IP009031","North Eyre Road Supply Main","Canterbury","2042-04-01",114.536303787806,72.5405496288718
+"IP009032","Bradleys Road Extension","Canterbury","2037-04-01",114.536303787806,72.5405496288718
+"IP009033","Mill Road Ring Main","Canterbury","2052-04-01",19.4020630754204,70.9092777709628
+"IP009035","Terrace Road / Elliots Road Trunk Main Upgrade","Canterbury","2062-04-01",19.6619926948531,70.913734797897
+"IP009036","Stoke School Road Main","Canterbury","2038-04-01",114.536303787806,72.5405496288718
+"IP009072","West Rangiora Upgrade 1","Canterbury","2027-04-01",125.744846810728,72.7327431089957
+"IP009077","Wiltshire / Green Pipework Upgrade Stage 2","Canterbury","2027-04-01",47.5100461077456,71.3912468428749
+"IP009081","East Woodend Upgrade McIntosh Drain","Canterbury","2029-04-01",114.536303787806,72.5405496288718
+"IP009082","East Woodend Internal reticulation","Canterbury","2029-04-01",114.536303787806,72.5405496288718
+"IP009085","Lehmans Road Stage 2","Canterbury","2028-04-01",77.5494426686831,71.9063339647302
+"IP009089","School Road Drainage Upgrade","Canterbury","2025-04-01",-68.5546525532585,69.401079315341
+"IP009093","Three Brooks Enhancement Work - North Brook / Geddis Street","Canterbury","2026-04-01",126.771267908897,72.7503432058616
+"IP009095","Three Brooks Enhacement Project - North Brook Victoria to Newnham","Canterbury","2028-04-01",45.190268894108,71.351469500281
+"IP009097","Sunday School Drain Piping","Canterbury","2027-04-01",79.8692198823207,71.9461113073241
+"IP009101","Flannigans Drain Downstream Upgrade","Canterbury","2027-04-01",79.8692198823207,71.9461113073241
+"IP009109","Belmont Avenue Drainage Upgrades","Canterbury","2028-04-01",157.254120718079,73.2730342954635
+"IP009110","Bay Road Drainage Upgrades","Canterbury","2027-04-01",79.8692198823207,71.9461113073241
+"IP009111","Burnett Street Capacity Upgrades","Canterbury","2026-04-01",159.130441683472,73.3052076703108
+"IP009113","Stockwater Culvert Replacement","Canterbury","2048-04-01",-1895.26047942858,38.0784578727733
+"IP009121","Southbrook Transfer Station Access Roads","Canterbury","2048-04-01",-1372.39314802202,47.0440916630524
+"IP009123","Oxford Transfer Station Access Roads","Canterbury","2047-04-01",-1800.1262387162,39.7097297306823
+"IP009128","Oxford Transfer Station Minor Improvements","Canterbury","2037-04-01",-850.863268547804,55.9867920942992
+"IP009820","Knight Street Upgrades","Canterbury","2027-04-01",47.5100461077456,71.3912468428749
+"IP010276","Chinnerys Road Surface Pump Upgrade 1","Canterbury","2028-04-01",124.894946943504,72.7181698310144
+"IP010277","Pegasus Waikuku Link Main Stage 1","Canterbury","2035-04-01",19.6619926948531,70.913734797897
+"IP010278","Woodend Ravenswood Eastern Link Main Stage 1","Canterbury","2028-04-01",124.894946943504,72.7181698310144
+"IP010279","Island Road Main Upgrade","Canterbury","2037-04-01",114.536303787806,72.5405496288718
+"IP010313","South Woodend Servicing 1","Canterbury","2036-04-01",14.4701857589744,70.8247106097311
+"IP010315","South of Oxford Servicing","Canterbury","2036-04-01",19.4020630754204,70.9092777709628
+"IP010655","Marsh Road Supply Main","Canterbury","2069-04-01",114.536303787806,72.5405496288718
+"IP010657","East Rangiora Supply Main","Canterbury","2071-04-01",114.536303787806,72.5405496288718
+"IP010658","Chinnerys Rd Surface Pump Upgrade 3","Canterbury","2043-04-01",114.536303787806,72.5405496288718
+"IP010659","Woodend Ravenswood Eastern Link Main Stage 2","Canterbury","2046-04-01",19.6619926948531,70.913734797897
+"IP010661","North Ravenswood Supply Main","Canterbury","2070-04-01",114.536303787806,72.5405496288718
+"IP010662","South of Kaikanui Supply Main Stage 1","Canterbury","2050-04-01",19.6619926948531,70.913734797897
+"IP010663","South of Kaikanui Supply Main Stage 2","Canterbury","2053-04-01",114.536303787806,72.5405496288718
+"IP010666","Watsons Reserve Road Upgrade","Canterbury","2045-04-01",114.536303787806,72.5405496288718
+"IP010667","Thongcaster Rd Supply Main","Canterbury","2049-04-01",19.4020630754204,70.9092777709628
+"IP010668","Rampaddock Rd Ring Main","Canterbury","2049-04-01",114.536303787806,72.5405496288718
+"IP010669","Harmans Gorge Rd Upgrade 2","Canterbury","2058-04-01",19.6619926948531,70.913734797897
+"IP010677","West Rangiora Gravity Upgrade 2","Canterbury","2044-04-01",114.276374168373,72.5360926019376
+"IP010680","Northeast Kaiapoi Upgrade 2","Canterbury","2048-04-01",19.4020630754204,70.9092777709628
+"IP010683","South Woodend Servicing 2","Canterbury","2042-04-01",19.6619926948531,70.913734797897
+"IP010684","North of Ravenswood Servicing 1","Canterbury","2047-04-01",14.8815851309898,70.8317648965252
+"IP010685","South of Ravenswood Servicing","Canterbury","2050-04-01",19.6619926948531,70.913734797897
+"IP010686","North of Ravenswood Servicing 2","Canterbury","2059-04-01",14.7301153784071,70.8291676366653
+"IP010687","North of Ravenswood Servicing 3","Canterbury","2065-04-01",14.4701857589744,70.8247106097311
+"IP010688","Petries Rd Dedicated rising main","Canterbury","2069-04-01",14.4701857589744,70.8247106097311
+"IP012292","Upper Sefton Road Ashley flood Upgrade","Canterbury","2025-04-01",29.8358859879736,71.088187084373
+"IP011156","411075513 - Capital - Roading  - resealing 481","Canterbury","2034-04-01",-684.94016924828,58.8318842549929
+"IP011157","411075514 - Capital - Roading  - drainage construction 48201","Canterbury","2034-04-01",-685.091639000863,58.8292869951329
+"IP011158","411075515 - Capital - Roading  - culvert replacement 48202","Canterbury","2034-04-01",-685.091639000863,58.8292869951329
+"IP011159","411075516 - Capital - Roading  - kerb and channel renewal 48203","Canterbury","2034-04-01",-685.091639000863,58.8292869951329
+"IP011160","411075517 - Capital - Roading  - concrete ford renewal 48204","Canterbury","2034-04-01",-680.159761684417,58.9138541563646
+"IP011161","411075518 - Capital - Roading  - pavement rehabilitation 483","Canterbury","2034-04-01",-684.94016924828,58.8318842549929
+"IP011162","411075519 - Capital - Roading  - structures component rep. 484","Canterbury","2034-04-01",-685.091639000863,58.8292869951329
+"IP011163","411075520 - Capital - Roading  - sign renewal 48501","Canterbury","2034-04-01",-680.159761684417,58.9138541563646
+"IP011164","411075523 - Capital - Roading  - minor improvements 48701","Canterbury","2034-04-01",-684.94016924828,58.8318842549929
+"IP011165","411075524 - Capital - Roading  - footpath renewal 491","Canterbury","2034-04-01",-685.091639000863,58.8292869951329
+"IP011166","411075525 - Capital - Roading  - minor improv. (non-sub) 49204","Canterbury","2034-04-01",-680.159761684417,58.9138541563646
+"IP011167","411075526 - Capital - Roading  - Seal Extensions 49203","Canterbury","2034-04-01",-680.159761684417,58.9138541563646
+"IP011168","411075527 - Capital - Roading  - development 49202","Canterbury","2034-04-01",-680.159761684417,58.9138541563646
+"IP011169","511076001 - Cannington - Renewals","Canterbury","2034-04-01",-772.085303762196,57.337602023677
+"IP011176","511076012 - Cannington - Dwyer 63OD 1494m 40OD 929m and PRV","Canterbury","2029-04-01",22.6107617100263,70.9642974961842
+"IP011177","513076001 - Hook / Waituna - Renewals","Canterbury","2034-04-01",-772.085303762196,57.337602023677
+"IP011179","513076012 - Hook / Waituna - Simmons Pumphouse Pump 1 Renewal","Canterbury","2027-04-01",33.8193047329487,71.1564909763081
+"IP011182","513076018 - Hook / Waituna - Line renewal upper Nortons Reserve Rd","Canterbury","2027-04-01",-44.4154959700338,69.8149947101873
+"IP011183","513076019 - Hook / Waituna - Line renewal Manchesters and Molloys Rd","Canterbury","2027-04-01",-44.4154959700338,69.8149947101873
+"IP011186","514076001 - Lower Waihao - Renewals","Canterbury","2034-04-01",-772.085303762196,57.337602023677
+"IP011187","514076004 - Lower Waihao - Glenavy Township Mains Renewal","Canterbury","2034-04-01",-690.265121501867,58.7405770170212
+"IP011188","514076005 - Lower Waihao - Glenavy Township Restrictor Renewal","Canterbury","2034-04-01",-690.265121501867,58.7405770170212
+"IP011191","514076009 - Lower Waihao - Telemetry - Lower Waihao Boost Renewal","Canterbury","2025-04-01",29.8358859879736,71.088187084373
+"IP011193","514076012 - Lower Waihao - Glenavy line renewal","Canterbury","2026-04-01",34.8457258311174,71.174091073174
+"IP011196","515076002 - Otaio / Makikihi - Renewals","Canterbury","2034-04-01",-777.017181078642,57.2530348624453
+"IP011197","515076005 - Otaio / Makikihi - Makikihi Township Mains Renewal","Canterbury","2032-04-01",-500.516499315962,61.9942066789709
+"IP011198","515076006 - Otaio / Makikihi - Makikihi Township Restrictor Renewal","Canterbury","2032-04-01",-500.516499315962,61.9942066789709
+"IP011200","515076011 - Otaio / Makikihi - Consent Volume Review","Canterbury","2026-04-01",34.8457258311174,71.174091073174
+"IP011201","515076013 - Otaio / Makikihi - pH Online Analysers","Canterbury","2025-04-01",29.8358859879736,71.088187084373
+"IP011203","516076001 - Waihaorunga - Renewals","Canterbury","2034-04-01",-772.085303762196,57.337602023677
+"IP011206","516076005 - Waihaorunga - New Board and Telemetry","Canterbury","2027-04-01",33.8193047329487,71.1564909763081
+"IP011210","517076001 - Waikakahi - Renewals","Canterbury","2034-04-01",-777.017181078642,57.2530348624453
+"IP011222","531076025 - Urban Water - Extension Bakers/Court/Hunts/Fitzmaurice Roads","Canterbury","2025-04-01",29.8358859879736,71.088187084373
+"IP011233","552074534 - Sewer - Edinburgh, Victoria & Nelson Streets infill","Canterbury","2028-04-01",32.9694048657248,71.1419176983267
+"IP011234","552074535 - Sewer - Allan Street extension","Canterbury","2030-04-01",22.6107617100263,70.9642974961842
+"IP011235","552074536 - Sewer - Manchester Street extension","Canterbury","2032-04-01",22.3508320905936,70.95984046925
+"IP011236","552074537 - Sewer - Hunts Road extension","Canterbury","2034-04-01",-870.122403120453,55.6565546950117
+"IP008685","Picquet Hill Plan Change","Waikato","2025-07-01",40.5636571705547,48.4233325216747
+"IP008694","Cycleway Te Awamutu/Ngā Roto/Pirongia Connection Section 1, Stage 1","Waikato","2025-10-01",8.61360878729516,47.6450849910941
+"IP006534","Wellington Golden Mile Improvements","Wellington","2030-10-01",-3501.8007070979,19.0107647921576
+"IP006627","Transitional Cycleway: Newtown to City","Wellington","2024-10-01",-3144.64658344569,27.4421701275632
+"IP006633","Island Bay Parade Upgrade","Wellington","2025-10-01",-3224.02629636475,25.5682381449651
+"IP006643","Lincolnshire Farm Collector Road","Wellington","2027-04-01",-3099.17146605577,28.5157098741264
+"IP000742","New Domestic and International Jet Terminal","Wellington","2027-01-01",-2290.38035607143,47.6089954568826
+"IP000743","New Aircraft Apron","Wellington","2027-01-01",-3042.26177436768,29.8591877912469
+"IP008161","New Airport for Whangārei District","Northland","2032-04-01",-1073.46305750671,11.6348096753008
+"IP008163","Waterfront to City Centre Connection Shared Space","Northland","2028-04-01",-546.724938876384,51.3735753126288
+"IP008166","Blue Green Network Programme","Northland","2031-04-01",-757.248884632893,35.4909925916033
+"IP009811","Kamo Shared Path Stage 5","Northland","2024-04-01",97.8192749349682,100
+"IP009812","Springs Flat Roundabout","Northland","2026-10-01",-178.595558362498,79.1464033253342

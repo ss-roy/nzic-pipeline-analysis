@@ -1,28 +1,27 @@
 {
-    "id": "4A7AD9C8",
-    "path": "~/Documents/Resume-Job Search/Phase V/NZIC/source/0_functions.R",
-    "project_path": "source/0_functions.R",
+    "id": "9F3303E6",
+    "path": "~/Documents/Resume-Job Search/Phase V/NZIC/source/4_linear_model_macro.R",
+    "project_path": "source/4_linear_model_macro.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1728183996081.0,
+    "created": 1728200112493.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 3,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,21",
-        "scrollLine": "0",
-        "docOutlineVisible": "1"
+        "cursorPosition": "213,48",
+        "scrollLine": "180"
     },
     "folds": "",
-    "lastKnownWriteTime": 1728089093,
+    "lastKnownWriteTime": 1728200119,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1728089093,
+    "last_content_update": 1728200119602,
     "read_only": false,
     "read_only_alternatives": []
 }
